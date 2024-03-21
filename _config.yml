@@ -1,0 +1,19 @@
+# Setup
+acronym:      PMBS23
+titleintro:   14th IEEE International Workshop on
+title:        Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems
+tagline:      held in conjunction with SC23&#58; The International Conference for High Performance Computing, Networking, Storage and Analysis 
+baseurl:      ""
+locale:       "en"
+encoding:     utf-8
+
+# About/contact
+author:
+  name:       Steven Wright
+  url:        https://cs.york.ac.uk/~saw 
+
+# Gems
+gems: []
+
+#Others
+markdown: kramdown

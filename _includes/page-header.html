@@ -1,0 +1,19 @@
+<section class="page-header">
+  {% assign default_paths = site.pages | sort: "order" | map: "path" %}
+  {% assign page_paths = site.header_pages | default: default_paths %}
+  {% for path in page_paths %}
+    {% assign my_page = site.pages | where: "path", path | first %}
+    {% if my_page.title %}
+      <a class="btn" href="{{ my_page.url | relative_url | remove: "/" }}">{{ my_page.title | escape }}</a>
+    {% endif %}
+  {% endfor %}
+
+  <div class="site-title">
+    <div class="site-logo"><img class="sclogo" src="assets/images/sclogo.png"></img></div>
+    <div class="site-intro"><h2 class="project-introline">{{ site.titleintro }}</h2></div>
+    <div class="site-headline"><h1 class="project-name">{{ site.title }}</h1></div>
+    <div class="site-subline"><h2 class="project-tagline">{{ site.tagline }}</h2></div>
+    <!--<div class="site-coop"><h3 class="project-coop">In cooperation with <img class="tchpc-logo" src="assets/images/tchpc_logo.png"></img></h3></div>-->
+  </div>
+
+</section>
