@@ -13,9 +13,9 @@ If you are interested in joining the programme committee, please get in touch.
 Workshop Chairs
 ---------------
 
-Simon Hammond, _National Nuclear Security Administration, US_
-Sascha Hunold, _TU Wien, Austria_
-Steven Wright, _University of York, UK_
+* Simon Hammond, _National Nuclear Security Administration, US_
+* Sascha Hunold, _TU Wien, Austria_
+* Steven Wright, _University of York, UK_
 
 [//]: Workshop Technical Programme Committee
 [//]: ------------------------------------
