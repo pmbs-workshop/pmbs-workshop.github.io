@@ -69,6 +69,7 @@ Important Workshop Dates
 Previous Workshops
 ------------------
 
+PMBS23 [[Website]](past-workshops/pmbs23/) [[Proceedings]](https://dl.acm.org/doi/proceedings/10.1145/3624062#heading27)  
 PMBS22 [[Website]](http://www.dcs.warwick.ac.uk/pmbs/pmbs22/) [[Proceedings]](https://ieeexplore.ieee.org/xpl/conhome/10024010/proceeding) (Dallas, TX)  
 PMBS21 [[Website]](http://www.dcs.warwick.ac.uk/pmbs/pmbs21/) [[Proceedings]](https://ieeexplore.ieee.org/xpl/conhome/9652586/proceeding) (St. Louis, MO, and Virtual)  
 PMBS20 [[Website]](http://www.dcs.warwick.ac.uk/pmbs/pmbs20/) [[Proceedings]](https://ieeexplore.ieee.org/xpl/conhome/9307827/proceeding) (Virtual)  
