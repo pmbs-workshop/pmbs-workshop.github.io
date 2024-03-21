@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Schedule 
 order: 2
 ---
 

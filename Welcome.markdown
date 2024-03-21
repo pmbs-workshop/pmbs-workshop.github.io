@@ -15,7 +15,7 @@ order: 1
 Welcome
 =======
 
-The PMBS23 workshop is concerned with the comparison of high-performance computer systems through 
+The PMBS24 workshop is concerned with the comparison of high-performance computer systems through 
 performance modeling, benchmarking or through the use of tools such as simulators.
 
 We are particularly interested in research which reports the ability to measure and make trade-offs 
@@ -58,12 +58,12 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* August 9th 2023 (23:59 AoE) - Full Paper Submissions
-* September 6th 2023 - Full Paper Notifications
-* September 6th 2023 (23:59 AoE) - Late Breaking and Short Paper Submissions
-* September 18th 2023 - Late Breaking and Short Paper Notifications
-* September 27th 2023 - Camera Ready Papers Due
-* **November 13th 2023 - PMBS23 Workshop**
+* August 7th 2024 (23:59 AoE) - Full Paper Submissions
+* September 4th 2024 - Full Paper Notifications
+* September 13th 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
+* September 25th 2024 - Late Breaking and Short Paper Notifications
+* September 27th 2024 - Camera Ready Papers Due
+* **November 2024 - PMBS24 Workshop**
 
 
 Previous Workshops
