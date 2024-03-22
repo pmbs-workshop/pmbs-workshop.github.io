@@ -1,0 +1,25 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>OMB-UM: Design, Implementation, and Evaluation of CUDA Unified Memory Aware MPI Benchmarks</h1>
+<h3>Karthik Vadambacheri Manian, Ching-Hsiang Chu, Ammar Ahmad Awan, Kawthar Shafie Khorassani, Hari Subramoni and Dhabaleswar K. Panda</h3>
+<p>
+Unified Memory (UM) has significantly simplified the task of programming CUDA applications. With UM, the CUDA driver is responsible for managing the data movement between CPU and GPU and the programmer can focus on the actual designs. However, the performance of Unified Memory codes has not been on par with explicit device buffer based code. To this end, the latest NVIDIA Pascal and Volta GPUs with hardware support such as fine-grained page faults offer the best of both worlds, i.e., high-productivity and high-performance. However, these enhancements in the newer generation GPU architectures need to be evaluated in a different manner, especially in the context of MPI+CUDA applications.
+<br/><br/>
+In this paper, we extend the widely used MPI benchmark OSU Micro-benchmarks (OMB) to support Unified Memory or Managed Memory based MPI benchmarks. The current version of OMB cannot effectively characterize UM-Aware MPI design because CUDA driver movements are not captured appropriately with standardized Host and Device buffer based benchmarks. To address this key challenge, we propose new designs for the OMB suite and extend point to point and collective benchmarks that exploit sender and receiver side CUDA kernels to emulate the effective location of the UM buffer on Host and Device. The new benchmarks allow the users to better understand the performance of codes with UM buffers through user-selectable knobs that enable or disable sender and receiver side CUDA kernels. In addition to the design and implementation, we provide a comprehensive performance evaluation of the new UM benchmarks in the OMB-UM suite on a wide variety of systems and MPI libraries. From these evaluations we also provide valuable insights on the performance of various MPI libraries on UM buffers which can lead to further improvement in the performance of UM in CUDA-Aware MPI libraries.
+</p>
+</div>
+</body>
+</html>

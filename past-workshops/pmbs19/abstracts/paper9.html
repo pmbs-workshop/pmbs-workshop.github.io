@@ -1,0 +1,25 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>CUDA Flux: A Lightweight Instruction Profiler for CUDA Applications</h1>
+<h3>Lorenz Braun and Holger Fr&ouml;ning</h3>
+<p>
+GPUs are powerful, massively parallel processors, which require a vast amount of thread parallelism to keep their thousands of execution units busy, and to tolerate latency when accessing its high-throughput memory system. Understanding the behavior of massively threaded GPU programs can be difficult, even though recent GPUs provide an abundance of hardware performance counters, which collect statistics about certain events. Profiling tools that assist the user in such analysis for their GPUs, like NVIDIA's nvprof and cupti, are state-of-the-art. However, instrumentation based on reading hardware performance counters can be slow, in particular when the number of metrics is large. Furthermore, the results can be inaccurate as instructions are grouped to match the available set of hardware counters.
+<br/><br/>
+In this work we introduce CUDA Flux, an alternative to profiling based on hardware performance counters. As part of CUDA compilation, code is instrumented to collect statistics about the control flow. The resulting instruction count is then calculated based on these statistics in combination with an analysis of PTX assembly. In general, it is possible to trade profiling overhead for profiling accuracy, as the number of threads to instrument can be varied. Our experiments show that code instrumentation and associated data acquisition is usually faster than reading out a large amount of hardware performance counters, like being done by nvprof. Ultimately, we see code instrumentation as highly flexible, with many possibilities to trade accuracy for resource requirements, while the fundamental techniques can be preserved.
+</p>
+</div>
+</body>
+</html>

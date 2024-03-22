@@ -1,0 +1,23 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Enhancing Monte Carlo proxy applications on GPUs</h1>
+<h3>Forrest Shriver, Seyong Lee, Steven Hamilton, Jeffrey Vetter and Justin Watson</h3>
+<p>
+In continuous-energy Monte Carlo neutron transport simulations, a computational routine commonly known as the "cross-section lookup" has been identified as being the most computationally expensive part of these applications. A tool which is commonly used as a proxy application for these routines, named "XSBench", was created to simulate popular algorithms used in these routines on CPUs. Currently, however, as GPU-based HPC resources have become more widely available, there has been significant interest and efforts invested in moving these traditionally CPU-based simulations to GPUs. Unfortunately, the algorithms commonly used in the cross-section lookup routine were originally devised and developed for CPU-based platforms, and have seen limited study on GPUs to date. Additionally, platforms such as XSBench implement approximations which may have a negligible effect on CPUs, but may be quite impactful to performance on GPUs given the more resource-limited nature of the latter. As a result, we have created VEXS, a new tool for modeling the cross-section lookup routine which removes or at least reduces the approximations made by XSBench in order to provide a more realistic prediction of algorithm performance on GPUs. In this paper, we detail our efforts to remove and reduce these approximations, show the resulting improvement in performance prediction in comparison to a reference production code, Shift, and provide some basic profiling analysis of the resulting application.
+</p>
+</div>
+</body>
+</html>

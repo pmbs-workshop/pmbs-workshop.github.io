@@ -1,0 +1,54 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Static Cost Estimation for Data Layout Selection on GPUs</h1>
+<h3>Yuhan Peng, Max Grossman, Vivek Sarkar</h3>
+<p>
+Performance modeling provides mathematical
+models and quantitative analysis for designing and optimizing
+computer systems. In high performance architectures, high-latency 
+memory accesses often dominate execution time in
+many classes of applications. Thus, performance modeling for
+memory accesses of high performance architectures has been
+an important research topic. In high performance computation,
+data layout can significantly affect the efficiency of memory
+access operations. In recent years, the problem of data layout
+selection has been well studied on various parallel CPU and
+some GPU architectures. GPUs have memory hierarchies different 
+from multi-core CPUs. While data layout selection on GPUs
+has been inspected by several existing projects, there is still
+a lack of a mathematical cost model for data layout selection
+on GPUs. This motivates us to investigate static cost analysis
+methods that could better guide future data layout selection
+work, and perhaps even designing new SIMT architectures.
+In this paper, we propose a comprehensive cost analysis for
+data layout selection for GPUs. We build our cost function based
+on the knowledge of the GPU memory hierarchy, and develop
+an algorithm which allows researchers to perform compile
+time cost estimation for a given data layout. Furthermore,
+we introduce a new vector based representation to represent
+the estimated cost, which can better estimate the cost of
+applications with dynamic length loops. We apply our cost
+analysis to selected benchmarks from past publications on data
+layout selection. Our experimental results show that our cost
+analysis can accurately predict the relative costs of different
+data layouts. Using the cost model presented in this paper, we
+are developing an automatic data layout selection tool in our
+ongoing work.
+</p>
+</div>
+</body>
+
+</html>

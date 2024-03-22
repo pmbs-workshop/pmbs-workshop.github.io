@@ -1,0 +1,24 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>A Slurm Simulator: Implementation and Parametric Analysis</h1>
+<h3>Nikolay A. Simakov, Martins D. Innus, Matthew D. Jones, Robert L. DeLeon, Joseph P. White, Steven M. Gallo, Abani K. Patra and Thomas R. Furlani</h3>
+<p>
+Slurm is an open-source resource manager for HPC that provides high configurability for inhomogeneous resources and job scheduling. Various Slurm parametric settings can significantly influence HPC resource utilization and job wait time, however in many cases it is hard to judge how these options will affect the overall HPC resource performance. The Slurm simulator can be a very helpful tool to aid parameter selection for a particular HPC resource. Here, we report our implementation of a Slurm simulator and the impact of parameter choice on HPC resource performance. The simulator is based on a real Slurm instance with modifications to allow simulation of historical jobs and to improve the simulation speed. The simulator speed heavily depends on job composition, HPC resource size and Slurm configuration. For an 8000 cores heterogeneous cluster, we achieve about 100 times acceleration, e.g. 20 days can be simulated in 5 hours. Several parameters affecting job placement were studied. Disabling node sharing on our 8000 core cluster showed a 45% increase in the time needed to complete the same workload. For a large system (>6000 nodes) comprised of two distinct sub-clusters, two separate Slurm controllers and adding node sharing can cut waiting times nearly in half.
+
+</p>
+</div>
+</body>
+</html>

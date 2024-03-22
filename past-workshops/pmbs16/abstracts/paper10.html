@@ -1,0 +1,48 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Effective Use of Large High-Bandwidth Memory Caches in HPC Stencil Computation via Temporal Wave-Front Tiling</h1>
+<h3>Charles Yount, Alejandro Duran</h3>
+<p>
+Stencil computation is an important class of algorithms 
+used in a large variety of scientific-simulation applications.
+The performance of stencil calculations is often bounded by
+memory bandwidth. High-bandwidth memory (HBM) on devices
+such as those in the Intel Xeon Phi x200 processor family
+(code-named Knights Landing) can thus provide additional
+performance. In a traditional sequential time-step approach,
+the additional bandwidth can be best utilized when the stencil
+data fits into the HBM, restricting the problem sizes that can
+be undertaken and under-utilizing the larger DDR memory
+on the platform. As problem sizes become significantly larger
+than the HBM, the effective bandwidth approaches that of the
+DDR, degrading performance. This paper explores the use of
+temporal wave-front tiling to add an additional layer of cache-blocking 
+to allow efficient use of both the HBM bandwidth
+and the DDR capacity. Details of the cache-blocking and wavefront 
+tiling algorithms are given, and results on a Xeon Phi
+processor are presented, comparing performance across problem
+sizes and among four experimental configurations. Analyses of
+the bandwidth utilization and HBM-cache hit rates are also
+provided, illustrating the correlation between these metrics and
+performance. It is demonstrated that temporal wave-front tiling
+can provide a 2.4x speedup compared to using HBM cache
+without temporal tiling and 3.3x speedup compared to only using
+DDR memory for large problem sizes.
+</p>
+</div>
+</body>
+
+</html>

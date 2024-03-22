@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+  <meta charset="UTF-8">
+  <title>Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <!--<link rel="stylesheet" href="/css/normalize.css">-->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/cayman.css">
+</head>
+
+
+  <body>
+    <section class="page-header">
+  
+  
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+      <a class="btn" href="Welcome.html">Welcome</a>
+    
+  
+    
+    
+      <a class="btn" href="Schedule.html">Schedule</a>
+    
+  
+    
+    
+      <a class="btn" href="Proceedings.html">Proceedings</a>
+    
+  
+    
+    
+      <a class="btn" href="ProgrammeCommittee.html">Programme Committee</a>
+    
+  
+    
+    
+      <a class="btn" href="Submit.html">Submit Paper</a>
+    
+  
+
+  <div class="site-title">
+    <div class="site-logo"><img class="sclogo" src="assets/images/sclogo.png"></img></div>
+    <div class="site-intro"><h2 class="project-introline">13th IEEE International Workshop on</h2></div>
+    <div class="site-headline"><h1 class="project-name">Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems</h1></div>
+    <div class="site-subline"><h2 class="project-tagline">held in conjunction with SC22&#58; The International Conference for High Performance Computing, Networking, Storage and Analysis</h2></div>
+    <!--<div class="site-coop"><h3 class="project-coop">In cooperation with <img class="tchpc-logo" src="assets/images/tchpc_logo.png"></img></h3></div>-->
+  </div>
+
+</section>
+
+
+    <section class="main-content">
+      
+      <p><strong>09:45 - 10:00 Best Short Paper</strong><br />
+<strong>OMPICollTune: Autotuning MPI Collectives by Incremental Online Learning</strong></p>
+
+<p>Sebastian Steiner, Sascha Hunold<br />
+<em>TU Wien, Austria</em></p>
+
+<p><em>Collective communication operations, such as Broadcast or Reduce, are fundamental cornerstones in many high-performance applications. Most collective operations can be implemented using different algorithms, each of which has advantages and disadvantages. For that reason, MPI libraries typically implement a selection logic that attempts to make good algorithmic choices for specific problem instances. It has been shown in the literature that the hard-coded algorithm selection logic found in MPI libraries can be improved by tuning the collectives in a separate, offline micro-benchmarking run.</em></p>
+
+<p><em>In the present paper, we go a fundamentally different way of improving the algorithm selection for MPI collectives. We integrate the probing of different algorithms directly into the MPI library. Whenever an MPI application is started with a given process configuration, i.e., the number of nodes and the processes per node, the tuner, instead of the default selection logic, finds the next algorithm to complete an issued MPI collective call. The tuner records the runtime of this MPI call for a subset of processes. With the recorded performance data, the tuner is able to build a performance model that allows selecting an efficient algorithm for a given collective problem. Subsequently recorded performance results are then used to update the performance model, where the probabilities for selecting an algorithm are adapted by the tuner, such that slow algorithms get a smaller chance of being selected. We show in a case study, using the ECP proxy application miniAMR, that our approach can effectively tune the performance of Allreduce.</em></p>
+
+
+      <footer class="site-footer">
+  <span class="site-footer-owner">The <a href="">PMBS22</a> site is maintained by <a href="https://cs.york.ac.uk/~saw">Steven Wright</a>.</span>
+</footer>
+
+
+    </section>
+
+  </body>
+</html>

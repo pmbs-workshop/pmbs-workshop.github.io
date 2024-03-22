@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:3F654CC9-C7A3-4DEC-AB4D-6B21C18BC3FF</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-07-26T07:34:31+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:4D66AA6D-2F9C-4EA4-95C3-B46AABBD4438</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">4D66AA6D-2F9C-4EA4-95C3-B46AABBD4438</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2011-07-26T07:34:31.001+01:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:46D7431B-1FF2-49D1-8F0D-5116B7389336</id>
+  <title>Workshop Programme</title>
+  <title xmlns="urn:iweb:">Workshop Programme</title>
+  <in-navbar xmlns="urn:iweb:">46D7431B-1FF2-49D1-8F0D-5116B7389336</in-navbar>
+  <link rel="alternate" href="Workshop_Programme.html"/>
+  <updated>2011-07-26T07:34:31.002+01:00</updated>
+  <content>Workshop Programme</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:024AEC47-54E5-4EB7-80FE-A7059E3F47F0</id>
+  <title>Workshop Proceedings</title>
+  <title xmlns="urn:iweb:">Workshop Proceedings</title>
+  <in-navbar xmlns="urn:iweb:">024AEC47-54E5-4EB7-80FE-A7059E3F47F0</in-navbar>
+  <link rel="alternate" href="Workshop_Proceedings.html"/>
+  <updated>2011-07-26T07:34:31.003+01:00</updated>
+  <content>Workshop Proceedings</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6A4585C2-8A73-44F5-AE5A-FD568188350B</id>
+  <title>Workshop Photos</title>
+  <title xmlns="urn:iweb:">Workshop Photos</title>
+  <in-navbar xmlns="urn:iweb:">6A4585C2-8A73-44F5-AE5A-FD568188350B</in-navbar>
+  <link rel="alternate" href="Workshop_Photos.html"/>
+  <updated>2011-07-26T07:34:31.004+01:00</updated>
+  <content>Workshop Photos</content>
+ </entry>
+</feed>

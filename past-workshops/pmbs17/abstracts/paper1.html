@@ -1,0 +1,42 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Evaluating On-Node GPU Interconnect for Deep Learning Workloads</h1>
+<h3>Nathan R. Tallent, Nitin A. Gawande, Charles Siegel, Abhinav Vishnu, and Adolfy Hoisie</h3>
+<p>
+Scaling deep learning workloads across multiple GPUs on a single node
+has become increasingly important in data analytics. A key question is
+how well a PCIe-based GPU interconnect can perform relative to a custom
+high-performance interconnect such as NVIDIA's NVLink. This paper
+evaluates two such on-node interconnects for eight NVIDIA Pascal P100
+GPUs: (a) the NVIDIA DGX-1's NVLink 1.0 'hybrid cube mesh'; and 
+(b) the Cirrascale GX8's two-level PCIe tree using dual SR3615 switch 
+risers. To show the effects of a range of neural network workloads, 
+we define a parameterized version of the popular ResNet architecture. 
+We define a workload intensity metric that characterizes the expected
+computation/communication ratio; we also locate AlexNet and GoogLeNet
+within that space. As expected, the DGX-1 typically has superior
+performance. However, the GX8 is very competitive on all ResNet
+workloads. With 8 GPUs, the GX8 can outperform the DGX-1 on all-to-all
+reductions by 10% for medium-sized payloads; and in rare cases, the
+GX8 slightly outperforms on ResNet.
+</p>
+</div>
+</body>
+
+</html>
+
+
+

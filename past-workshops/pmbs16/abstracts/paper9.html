@@ -1,0 +1,57 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Performance Analysis and Optimization of Clang's OpenMP 4.5 GPU Support</h1>
+<h3>Matt Martineau, Simon McIntosh-Smith, Carlo Bertolli, Arpith C. Jacob, Samuel F. Antao, Alexandre Eichenberger, Gheorghe-Teodor Bercea, Tong Chen, Tian Jin, Kevin O'Brien, Georgios Rokos, Hyojin Sung, Zehra Sura</h3>
+<p>
+The Clang implementation of OpenMP R 4.5 now
+provides full support for the specification, offering the only
+open source option for targeting NVIDIA R GPUs. While using
+OpenMP allows portability across different architectures, matching 
+native CUDA R performance without major code restructuring 
+is an open research issue.
+In order to analyze the current performance, we port a suite of
+representative benchmarks, and the mature mini-apps TeaLeaf,
+CloverLeaf, and SNAP to the Clang OpenMP 4.5 compiler.
+We then collect performance results for those ports, and their
+equivalent CUDA ports, on an NVIDIA Kepler GPU. Through
+manual analysis of the generated code, we are able to discover
+the root cause of the performance differences between OpenMP
+and CUDA.
+<br/>
+A number of improvements can be made to the existing
+compiler implementation to enable performance that approaches
+that of hand-optimized CUDA. Our first observation was that
+the generated code did not use fused-multiply-add instructions,
+which was resolved using an existing flag. Next we saw that the
+compiler was not passing any loads through non-coherent cache,
+and added a new flag to the compiler to assist with this problem.
+<br/>
+We then observed that the compiler partitioning of threads
+and teams could be improved upon for the majority of kernels,
+which guided work to ensure that the compiler can pick more
+optimal defaults. We uncovered a register allocation issue with
+the existing implementation that, when fixed alongside the other
+issues, enables performance that is close to CUDA.
+<br/>
+Finally, we use some different kernels to emphasize that
+support for managing memory hierarchies needs to be introduced 
+into the specification, and propose a simple option for
+programming shared caches.
+</p>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Algorithm Selection of MPI Collectives using Machine Learning Techniques </h1>
+<h3>Sascha Hunold and Alexandra Carpen-Amarie</h3>
+<p>
+Autotuning is a well established method to improve software performance for a given system, and it is especially important in High Performance Computing. The goal of autotuning is to find the best possible algorithm and its best parameter settings for a given instance. Autotuning can also be applied to MPI libraries, such as OpenMPI or IntelMPI. These MPI libraries provide numerous parameters that allow users to adapt them to a given system. Some of these tunable parameters enable users to select a specific algorithm that should be used internally by an MPI collective operation. For the purpose of automatically tuning MPI collectives on a given system, the Intel MPI library is shipped with mpitune. The drawback of tools like mpitune is that results can only be applied to cases (e.g., number of processes, message size) for which the tool has performed the optimization. <br>&nbsp;&nbsp;&nbsp;&nbsp;To overcome this limitation, we present a first step towards tuning MPI libraries also for unseen instances by applying machine learning techniques. Our goal is to create a classifier that takes the collective operation, the message size and communicator characteristics (number of compute nodes, number of processes per node) as an input and gives the predicted best algorithm for this problem as an output. We show how such a model can be constructed and what pitfalls should be avoided. We demonstrate by thorough experimentation that our proposed prediction model is able to outperform the default configuration of IntelMPI or OpenMPI on recent computer clusters. 
+</p>
+</div>
+</body>
+</html>

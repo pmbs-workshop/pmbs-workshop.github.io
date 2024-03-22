@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:F71A7FE1-B513-4625-99DE-784D528FB6DB</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-11-20T21:55:26-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F98DA06F-F4C4-415C-AA26-BA009F9E58CE</id>
+  <title>Workshop Home</title>
+  <title xmlns="urn:iweb:">Workshop Home</title>
+  <in-navbar xmlns="urn:iweb:">F98DA06F-F4C4-415C-AA26-BA009F9E58CE</in-navbar>
+  <link rel="alternate" href="Workshop_Home.html"/>
+  <updated>2011-11-20T21:55:26.001-07:00</updated>
+  <content>Workshop Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2787C98F-A276-423F-8898-06053A75D4E5</id>
+  <title>Programme Committee</title>
+  <title xmlns="urn:iweb:">Programme Committee</title>
+  <in-navbar xmlns="urn:iweb:">2787C98F-A276-423F-8898-06053A75D4E5</in-navbar>
+  <link rel="alternate" href="Programme_Committee.html"/>
+  <updated>2011-11-20T21:55:26.002-07:00</updated>
+  <content>Programme Committee</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:76B1BA30-526B-46A3-8597-A77671FE32A4</id>
+  <title>Paper Submission</title>
+  <title xmlns="urn:iweb:">Paper Submission</title>
+  <in-navbar xmlns="urn:iweb:">76B1BA30-526B-46A3-8597-A77671FE32A4</in-navbar>
+  <link rel="alternate" href="Paper_Submission.html"/>
+  <updated>2011-11-20T21:55:26.003-07:00</updated>
+  <content>Paper Submission</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7E272388-D84F-4582-9FA3-638BCF10E718</id>
+  <title>Workshop Schedule</title>
+  <title xmlns="urn:iweb:">Workshop Schedule</title>
+  <in-navbar xmlns="urn:iweb:">7E272388-D84F-4582-9FA3-638BCF10E718</in-navbar>
+  <link rel="alternate" href="Workshop_Schedule.html"/>
+  <updated>2011-11-20T21:55:26.004-07:00</updated>
+  <content>Workshop Schedule</content>
+ </entry>
+</feed>

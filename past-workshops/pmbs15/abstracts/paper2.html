@@ -1,0 +1,28 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Performance Analysis of OpenMP on a GPU using a CORAL Proxy Application</h1>
+<h3>Gheorghe-Teodor Bercea, Carlo Bertolli, Samuel F. Antao, Arpith C. Jacob, Alexandre E. Eichenberger, Tong Chen, Zehrai Sura, Hyojin Sung, Georgios Rokos, David Applehans, Kevin O'Brien</h3>
+<p>
+OpenMP provides high-level parallel abstractions for programing heterogeneous systems based on acceleration technology. Active areas of research are looking to characterise the performance that can be expected from even the simplest combinations of directives and how they compare to versions manually implemented and tuned to a specific hardware accelerator.
+</p>
+<p>
+In this paper we analyze the performance of our implementation of the OpenMP 4.0 constructs on an NVIDIA GPU. For performance analysis we use LULESH, a complex proxy application provided by the Department of Energy as part of the set of CORAL benchmarks.
+NVIDIA provides CUDA as a native programming model for GPUs. We compare the performance of an OpenMP 4.0 version of LULESH obtained from a pre-existing OpenMP implementation with a functionally equivalent CUDA implementation. Alongside our performance analysis we also present the tuning steps required to obtain good performance when porting exiting applications to a new accelerator architecture. Based on the analysis of the performance characteristics of our application we present an extension to the compiler code-synthesis process for combined OpenMP 4.0 offloading directives. The results obtained using our OpenMP compilation toolchain show performance within 10% of native CUDA C/C++ for application kernels with low register counts.
+</p>
+</div>
+</body>
+
+</html>

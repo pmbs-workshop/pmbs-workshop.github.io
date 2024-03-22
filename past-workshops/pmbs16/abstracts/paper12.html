@@ -1,0 +1,58 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Visual Data-Analytics of Large-Scale Parallel Discrete-Event Simulations</h1>
+<h3>Caitlin Ross, Christopher D. Carothers, Misbah Mubarak, Philip Carns, Robert Ross, Jianping Kelvin Li and Kwan-Liu Ma</h3>
+<p>
+Parallel discrete-event simulation (PDES) is an important 
+tool in the codesign of extreme-scale systems because
+PDES provides a cost-effective way to evaluate designs of high-performance 
+computing systems. Optimistic synchronization algorithms 
+for PDES, such as Time Warp, allow events to be
+processed without global synchronization among the processing
+elements. A rollback mechanism is provided when events are
+processed out of timestamp order. Although optimistic synchronization 
+protocols enable the scalability of large-scale PDES, the
+performance of the simulations must be tuned to reduce the number 
+of rollbacks and provide an improved simulation runtime.
+To enable efficient large-scale optimistic simulations, one has to
+gain insight into the factors that affect the rollback behavior and
+simulation performance. We developed a tool for ROSS model
+developers that gives them detailed metrics on the performance
+of their large-scale optimistic simulations at varying levels of
+simulation granularity. Model developers can use this information
+for parameter tuning of optimistic simulations in order to achieve
+better runtime and fewer rollbacks. In this work, we instrument
+the ROSS optimistic PDES framework to gather detailed statistics
+about the simulation engine. We have also developed an interactive 
+visualization interface that uses the data collected by the
+ROSS instrumentation to understand the underlying behavior of
+the simulation engine. The interface connects real time to virtual
+time in the simulation and provides the ability to view simulation
+data at different granularities. We demonstrate the usefulness of
+our framework by performing a visual analysis of the dragonfly
+network topology model provided by the CODES simulation
+framework built on top of ROSS. The instrumentation needs
+to minimize overhead in order to accurately collect data about
+the simulation performance. To ensure that the instrumentation
+does not introduce unnecessary overhead, we perform a scaling
+study that compares instrumented ROSS simulations with their
+noninstrumented counterparts in order to determine the amount
+of perturbation when running at different simulation scales.
+</p>
+</div>
+</body>
+
+</html>

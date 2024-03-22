@@ -1,0 +1,47 @@
+<html>
+<head>
+  <style type="text/css">
+      .gwd-div-n77o {
+         position: absolute;
+         width: 680px;
+         color: rgb(0, 0, 0);
+         font-family: Helvetica;
+         text-align: justify;
+     }
+  </style>
+</head>
+<body>
+
+<div class="gwd-div-n77o">
+<h1>Periodic I/O scheduling for super-computers</h1>
+<h3>Guillaume Aupy, Ana Gainaru, and Valentin Le F&egrave;vre</h3>
+<p>
+With the ever-growing need of data in HPC applications, the congestion at the
+I/O level becomes critical in super-computers. Architectural enhancement such as
+burst-buffers and pre-fetching are added to machines, but are not sufficient to
+prevent congestion. Recent online I/O scheduling strategies have been put in
+place, but they add an additional congestion point and overheads in the
+computation of applications. 
+
+In this work, we show how to take advantage of the periodic nature of HPC
+applications in order to develop efficient periodic scheduling strategies
+for their I/O transfers. 
+Our strategy computes once during the job scheduling phase a pattern where it
+defines the I/O behavior for each application, after which the applications run
+independently, transferring their I/O at the specified times. Our strategy limits
+the amount of I/O congestion at the I/O node level and can be easily integrated
+into current job schedulers. We validate this model through extensive simulations
+and experiments by comparing it to state-of-the-art online solutions.
+
+Specifically, we show that not only our scheduler has the advantage of being
+de-centralized, thus overcoming the overhead of online schedulers, but we
+also show that on Mira one can expect an average dilation improvement of 22\%
+with an average throughput improvement of 32\%!
+Finally, we show that one can expect those improvements to get better in the
+next generation of platforms where the compute - I/O bandwidth imbalance
+increases.
+
+</p>
+</div>
+</body>
+</html>
