@@ -49,7 +49,7 @@ We encourage submissions in the following areas:
 
 Work which examines similar topics will also be considered.
 
-Information on how to submit a paper including correct formatting, page length etc can be found [here](Submit.html).
+Information on how to submit a paper including correct formatting, page length etc can be found [here](submit.html).
 
 [//]: {% include note.html content="Following this years workshop, selected authors from the 2019 and 2020 workshops will be 
 [//]: invited to submit extended versions of their papers to a special issue of 
