@@ -24,6 +24,7 @@ Workshop Technical Programme Committee
 * Dominic Brown, _AWE plc, UK_
 * Pedro Bruel, _HPE, US_
 * Christopher Carothers, _Rensselaer Polytechnic Institute, US_
+* Florina Ciorba, _University of Basel, Switzerland_
 * Tom Deakin, _University of Bristol, UK_
 * Ryusuke Egawa, _Tokyo Denki University, Japan_
 * Ryan E. Grant, _Queen's University, Canada_
@@ -33,12 +34,14 @@ Workshop Technical Programme Committee
 * Gihan Mudalige, _University of Warwick, UK_
 * Naohito Nakasato, _University of Aizu, Japan_
 * John Pennycook, _Intel Corporation, US_
+* Olly Perks, _Rivos Inc., UK_
 * Dirk Pleiter, _KTH Royal Institute of Technology, Sweden_
 * István Reguly, _Pázmány Péter Catholic University, Hungary_
 * Fabio Schifano, _Università di Ferrara and INFN, Italy_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * James Trotter, _Simula, Norway_
 * Alejandro Valero, _Universidad de Zaragoza, Spain_
+* Lilia Zaourar, _CEA, France_
 * Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, US_
 
 
