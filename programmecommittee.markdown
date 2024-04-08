@@ -27,6 +27,7 @@ Workshop Technical Programme Committee
 * Florina Ciorba, _University of Basel, Switzerland_
 * Tom Deakin, _University of Bristol, UK_
 * Ryusuke Egawa, _Tokyo Denki University, Japan_
+* Luan Gouveia-Lima, _INRIA Bordeaux, France_
 * Ryan E. Grant, _Queen's University, Canada_
 * Dalvan Griebler, _PUCRS, Brazil_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
@@ -38,6 +39,7 @@ Workshop Technical Programme Committee
 * Dirk Pleiter, _KTH Royal Institute of Technology, Sweden_
 * István Reguly, _Pázmány Péter Catholic University, Hungary_
 * Fabio Schifano, _Università di Ferrara and INFN, Italy_
+* Darío Suárez Gracia, _Universidad de Zaragoza, Spain_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * James Trotter, _Simula, Norway_
 * Alejandro Valero, _Universidad de Zaragoza, Spain_
