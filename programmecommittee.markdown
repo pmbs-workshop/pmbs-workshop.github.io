@@ -21,17 +21,21 @@ Workshop Technical Programme Committee
 ------------------------------------
 
 * Prasanna Balaprakash, _Oak Ridge National Laboratory, US_
+* Francieli Boito, _University of Bordeaux, France_
 * Dominic Brown, _AWE plc, UK_
 * Pedro Bruel, _HPE, US_
 * Christopher Carothers, _Rensselaer Polytechnic Institute, US_
 * Florina Ciorba, _University of Basel, Switzerland_
 * Tom Deakin, _University of Bristol, UK_
 * Ryusuke Egawa, _Tokyo Denki University, Japan_
+* Paddy Gillies, _European Centre for Medium-Range Weather Forecasts, UK_
 * Luan Gouveia-Lima, _INRIA Bordeaux, France_
 * Ryan E. Grant, _Queen's University, Canada_
 * Dalvan Griebler, _PUCRS, Brazil_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
+* Andy Herdman, _AWE plc, UK_
 * Ana Jokanović, _Hokus Platform, Spain_
+* Michael Klemm, _OpenMP ARB & AMD, Germany_
 * Gihan Mudalige, _University of Warwick, UK_
 * Naohito Nakasato, _University of Aizu, Japan_
 * John Pennycook, _Intel Corporation, US_
@@ -39,6 +43,8 @@ Workshop Technical Programme Committee
 * Dirk Pleiter, _KTH Royal Institute of Technology, Sweden_
 * István Reguly, _Pázmány Péter Catholic University, Hungary_
 * Fabio Schifano, _Università di Ferrara and INFN, Italy_
+* Kazem Shekofteh, _Heidelberg University, Germany_
+* Abderrahmane Sider, _Université de Bejaïa, Algeria_
 * Darío Suárez Gracia, _Universidad de Zaragoza, Spain_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * James Trotter, _Simula, Norway_
