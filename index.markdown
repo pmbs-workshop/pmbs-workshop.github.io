@@ -58,11 +58,11 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* August 7th 2024 (23:59 AoE) - Full Paper Submissions
+* August 1st 2024 (23:59 AoE) - Full Paper Submissions
+* September 1st 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
 * September 4th 2024 - Full Paper Notifications
-* September 13th 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
-* September 25th 2024 - Late Breaking and Short Paper Notifications
-* September 27th 2024 - Camera Ready Papers Due
+* September 11th 2024 - Late Breaking and Short Paper Notifications
+* September 15th 2024 - Camera Ready Papers Due
 * **November 2024 - PMBS24 Workshop**
 
 
