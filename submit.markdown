@@ -8,18 +8,20 @@ Submit A Paper
 ==============
 
 Authors are invited to submit full papers with unpublished, original work. Submissions are limited to 8 pages 
-using 10pt fonts in the [ACM CCS2012 format](https://www.acm.org/publications/proceedings-template) (with `sigconf` specified). 
+using 10pt fonts in the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates.html). 
 The 8-page limit includes figures and tables, but does not include appendices and references.
 Reproducibility initiative dependencies (Artifact Description or Computational Results Analysis) are also exempt of the 8-page limit.
 
 A separate Late-Breaking Research and Preliminary Techniques stream is also available for authors to submit 
 4-page papers, not including appendices or references, describing initial research or early first-of-a-kind results.
 
-Initial submissions should be made using the links below. The review process will be **dual anonymous**,
+Initial submissions should be made using the links below. The review process will be [**double anonymous**](https://sc24.supercomputing.org/program/papers/#dar),
 and authors should prepare their papers as such, removing author names and institutes; failure to do so will result in the paper being rejected without review.
 
-[~~[Submit a full paper]~~]() &emsp; 
-[~~[Submit a short paper]~~]()
+Accepted full papers will be eligible for 2 additional pages, while short papers will be eligible for 1 additional page.
+
+[[Submit a full paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSFullPapersSubmission&site=sc24) &emsp; 
+[[Submit a short paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSShortPapersSubmission&site=sc24)
 {: style="text-align: center;"}
 
 SC Transparency and Reproducibility Initiative
