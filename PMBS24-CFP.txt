@@ -1,0 +1,93 @@
+================================================================================
+
+PMBS 2024 :: Call for Papers
+
+15th International Workshop on Performance Modeling, 
+Benchmarking and Simulation of High Performance Computer Systems
+
+held in conjunction with IEEE/ACM SC24, Atlanta, GA, November 2024
+
+http://www.pmbsworkshop.org
+
+================================================================================
+
+
+The PMBS24 workshop is concerned with the comparison of high-performance 
+computer systems through performance modeling, benchmarking or through the use
+of tools such as simulators.
+
+We are particularly interested in research which reports the ability to measure
+and make trade-offs in software/hardware co-design to improve sustained
+application performance. We are also keen to capture the assessment of future
+systems, for example through work that ensures continued application
+scalability through peta- and exa-scale systems.
+
+The aim of this workshop is to bring together researchers, from industry and
+academia, concerned with the qualitative and quantitative evaluation and 
+modeling of high-performance computing systems. Authors are invited to submit 
+novel research in all areas of performance modeling, benchmarking and 
+simulation, and we welcome research that brings together current theory and 
+practice. We recognize that the coverage of the term performance has broadened 
+to include power consumption and reliability, and that performance modeling is 
+practiced through analytical methods and approaches based on software tools and 
+simulators.
+
+We encourage submissions in the following areas:
+
+ * Performance modeling, analysis, and prediction of applications and 
+   high-performance computing systems
+ * Novel techniques and tools for performance evaluation and prediction
+ * Advanced simulation techniques and tools
+ * Micro-benchmarking, application benchmarking and tracing
+ * Performance-driven code optimization and scalability analysis
+ * Verification and validation of performance models
+ * Benchmarking and performance analysis of novel hardware
+ * Performance concerns in software/hardware co-design
+ * Tuning and auto-tuning of HPC applications and algorithms
+ * Benchmark suites
+ * Performance visualization
+ * Real-world case studies
+ * Studies of heterogeneous architectures and many-core accelerators
+
+Work which examines similar topics will also be considered.
+
+=== Submission Guidelines ===
+
+Authors are invited to submit full papers with unpublished, original work. 
+Submissions are limited to 8 pages using 10pt fonts in the IEEE conference 
+proceedings template. The 8-page limit includes figures and tables, but does 
+not include appendices and references. 
+
+A separate Late-Breaking Research and Preliminary Techniques stream is also 
+available for authors to submit 4-page papers, not including appendices or 
+references, describing initial research or early first-of-a-kind results.
+
+The review process will be double anonymous, and authors should prepare 
+their papers as such, removing author names and institutes; failure to do 
+so will result in the paper being rejected without review.
+
+Accepted full papers will be eligible for 2 additional pages, while short 
+papers will be eligible for 1 additional page.
+
+=== SC Transparency and Reproducibility Initiative ===
+
+In line with the main Supercomputing conference, authors are asked to provide 
+an artifact description and an artifact evaluation appendix along with their 
+paper, describing the details of their software environments and computational 
+experiments to the extent that an independent person could replicate their 
+results.
+
+=== Important Dates ===
+
+August 1st 2024 (23:59 AoE) - Full Paper Submissions
+September 1st 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
+September 4th 2024 - Full Paper Notifications
+September 11th 2024 - Late Breaking and Short Paper Notifications
+September 15th 2024 - Camera Ready Papers Due
+November 2024 - PMBS24 Workshop
+
+=== More Information ===
+
+For more information consult the PMBS Workshop homepage at: 
+http://www.pmbsworkshop.org
+
