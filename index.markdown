@@ -63,7 +63,7 @@ Important Workshop Dates
 * September 4th 2024 - Full Paper Notifications
 * September 11th 2024 - Late Breaking and Short Paper Notifications
 * September 15th 2024 - Camera Ready Papers Due
-* **November 2024 - PMBS24 Workshop**
+* **November 18th 2024 - PMBS24 Workshop**
 
 
 Previous Workshops
