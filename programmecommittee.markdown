@@ -31,6 +31,7 @@ Workshop Technical Programme Committee
 * Paddy Gillies, _European Centre for Medium-Range Weather Forecasts, UK_
 * Luan Gouveia-Lima, _INRIA Bordeaux, France_
 * Ryan E. Grant, _Queen's University, Canada_
+* Rubén Gran-Tejero, _Universidad de Zaragoza, Spain_
 * Dalvan Griebler, _PUCRS, Brazil_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
 * Andy Herdman, _AWE plc, UK_
