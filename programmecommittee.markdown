@@ -34,9 +34,11 @@ Workshop Technical Programme Committee
 * Rubén Gran-Tejero, _Universidad de Zaragoza, Spain_
 * Dalvan Griebler, _PUCRS, Brazil_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
+* Mohamed W. Hassan, _KAUST, Saudi Arabia_
 * Andy Herdman, _AWE plc, UK_
 * Ana Jokanović, _Hokus Platform, Spain_
 * Michael Klemm, _OpenMP ARB & AMD, Germany_
+* Jannis Klinkenberg, _RWTH Aachen, Germany_
 * Gihan Mudalige, _University of Warwick, UK_
 * Naohito Nakasato, _University of Aizu, Japan_
 * John Pennycook, _Intel Corporation, US_
@@ -46,7 +48,6 @@ Workshop Technical Programme Committee
 * Fabio Schifano, _Università di Ferrara and INFN, Italy_
 * Kazem Shekofteh, _Heidelberg University, Germany_
 * Abderrahmane Sider, _Université de Bejaïa, Algeria_
-* Darío Suárez Gracia, _Universidad de Zaragoza, Spain_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * James Trotter, _Simula, Norway_
 * Alejandro Valero, _Universidad de Zaragoza, Spain_
