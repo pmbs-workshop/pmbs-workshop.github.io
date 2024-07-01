@@ -20,7 +20,6 @@ Workshop Chairs
 Workshop Technical Programme Committee
 ------------------------------------
 
-* Prasanna Balaprakash, _Oak Ridge National Laboratory, US_
 * Francieli Boito, _University of Bordeaux, France_
 * Dominic Brown, _AWE plc, UK_
 * Pedro Bruel, _HPE, US_
@@ -50,7 +49,6 @@ Workshop Technical Programme Committee
 * Abderrahmane Sider, _Université de Bejaïa, Algeria_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * James Trotter, _Simula, Norway_
-* Alejandro Valero, _Universidad de Zaragoza, Spain_
 * Lilia Zaourar, _CEA, France_
 * Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, US_
 
