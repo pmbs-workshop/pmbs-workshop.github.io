@@ -20,6 +20,7 @@ Workshop Chairs
 Workshop Technical Programme Committee
 ------------------------------------
 
+* Mauricio Araya-Polo, _TotalEnergies, US_
 * Francieli Boito, _University of Bordeaux, France_
 * Dominic Brown, _AWE plc, UK_
 * Pedro Bruel, _HPE, US_
