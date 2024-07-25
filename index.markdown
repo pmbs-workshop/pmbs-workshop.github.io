@@ -4,9 +4,8 @@ title: Welcome
 order: 1
 ---
 
-[//]: {% include note.html content="The deadline for paper submissions has been extended by two weeks, with the 
-[//]: notification deadline also moved by one week. The new deadline will be Wednesday 24th August 2021 (23:59 AoE).
-[//]: Paper notifications will be released on the 14th September 2021." %}
+{% include note.html content="The deadline for paper submissions has been extended by one week. 
+The new deadline will be Thursday 8th August 2024 (23:59 AoE)." %}
 
 
 [//]: {% include important.html content="The proceedings for this year's workshop are now available on the link above.
@@ -58,7 +57,7 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* August 1st 2024 (23:59 AoE) - Full Paper Submissions
+* ~~August 1st~~ August 8th 2024 (23:59 AoE) - Full Paper Submissions
 * September 1st 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
 * September 4th 2024 - Full Paper Notifications
 * September 11th 2024 - Late Breaking and Short Paper Notifications

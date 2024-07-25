@@ -10,7 +10,10 @@ held in conjunction with IEEE/ACM SC24, Atlanta, GA, November 2024
 http://www.pmbsworkshop.org
 
 ===============================================================================
-
+*******************************************************************************
+   DEADLINE EXTENSION: August 8th 2024 (23:59 AoE) - Full Paper Submissions
+*******************************************************************************
+===============================================================================
 
 The PMBS24 workshop is concerned with the comparison of high-performance 
 computer systems through performance modeling, benchmarking or through the use
@@ -79,7 +82,7 @@ results.
 
 === Important Dates ===
 
-August 1st 2024 (23:59 AoE) - Full Paper Submissions
+**August 8th** 2024 (23:59 AoE) - Full Paper Submissions
 September 1st 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
 September 4th 2024 - Full Paper Notifications
 September 11th 2024 - Late Breaking and Short Paper Notifications
