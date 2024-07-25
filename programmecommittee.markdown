@@ -32,6 +32,7 @@ Workshop Technical Programme Committee
 * Ryan E. Grant, _Queen's University, Canada_
 * Rubén Gran-Tejero, _Universidad de Zaragoza, Spain_
 * Dalvan Griebler, _PUCRS, Brazil_
+* Georg Hager, _Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
 * Mohamed W. Hassan, _KAUST, Saudi Arabia_
 * Andy Herdman, _AWE plc, UK_
