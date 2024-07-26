@@ -25,6 +25,7 @@ Workshop Technical Programme Committee
 * Francieli Boito, _University of Bordeaux, France_
 * Dominic Brown, _AWE plc, UK_
 * Pedro Bruel, _HPE, US_
+* Philip Carns, _Argonne National Laboratory, US_
 * Christopher Carothers, _Rensselaer Polytechnic Institute, US_
 * Florina Ciorba, _University of Basel, Switzerland_
 * Tom Deakin, _University of Bristol, UK_
