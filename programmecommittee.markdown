@@ -21,6 +21,7 @@ Workshop Technical Programme Committee
 ------------------------------------
 
 * Mauricio Araya-Polo, _TotalEnergies, US_
+* Paolo Bientinesi, _Umeå universitet, Sweden_
 * Francieli Boito, _University of Bordeaux, France_
 * Dominic Brown, _AWE plc, UK_
 * Pedro Bruel, _HPE, US_
