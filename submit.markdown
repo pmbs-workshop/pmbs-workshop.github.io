@@ -30,9 +30,11 @@ SC Transparency and Reproducibility Initiative
 In line with the main Supercomputing conference, authors are asked to provide an artifact description and an artifact evaluation
 appendix along with their paper, describing the details of their software environments and computational experiments to the 
 extent that an independent person could replicate their results. 
+The AD/AE appendix should **not** be submitted for review, but should be included in subsequent submissions _after_ acceptance.
 
 More information on the reproducibility initiative can be found [here](https://sc24.supercomputing.org/program/papers/reproducibility-initiative/).
 
+A template for the AD/AE appendix can be found [here](https://github.com/hunsa/sc24-repro/blob/main/for-paper-authors/sc24_ad_ae_template.pdf)
 
 [//]: Journal Special Issue
 [//]: ---------------------
