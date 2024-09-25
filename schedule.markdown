@@ -30,10 +30,11 @@ _Argonne National Laboratory, USA_
 **Comprehensive Performance Modeling and System Design Insights for Foundation Models**
 
 Shashank Subramanian, Ermal Rrapaj, Peter Harrington, Steven Farrell, Brian Austin, Samuel Williams, Nicholas Wright, Wahid Bhimji\\
-_Lawrence Berkeley National Laboratory_
+_Lawrence Berkeley National Laboratory, USA_
 
 Smeet Chheda\\
 _Stony Brook University, USA_
+
 ---
 
 ***10:00 - 10:30 Break***
