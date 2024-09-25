@@ -20,7 +20,8 @@ _TBA_
 **09:00 - 09:30**\\
 **LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**
 
-Chitty-Venkata, Raskar, Kale, Ferdaus, Tanikanti, Raffenetti, Taylor, Emani, Vishwanath
+Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus, Aditya Tanikanti, Ken Raffenetti, Valerie Taylor, Murali Emani, Venkatram Vishwanath\\
+_Argonne National Laboratory, USA_
 
 ---
 {: style="width: 30%;"}
@@ -28,8 +29,11 @@ Chitty-Venkata, Raskar, Kale, Ferdaus, Tanikanti, Raffenetti, Taylor, Emani, Vis
 **09:30 - 10:00**\\
 **Comprehensive Performance Modeling and System Design Insights for Foundation Models**
 
-Subramanian, Rrapaj, Harrington, Chheda, Farrell, Austin, Williams, Wright, Bhimji
+Shashank Subramanian, Ermal Rrapaj, Peter Harrington, Steven Farrell, Brian Austin, Samuel Williams, Nicholas Wright, Wahid Bhimji\\
+_Lawrence Berkeley National Laboratory_
 
+Smeet Chheda\\
+_Stony Brook University, USA_
 ---
 
 ***10:00 - 10:30 Break***
@@ -42,7 +46,8 @@ Subramanian, Rrapaj, Harrington, Chheda, Farrell, Austin, Williams, Wright, Bhim
 **10:30 - 10:50 Best Short Paper**\\
 **System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer**
 
-Austin, Kulkarni, Williams, Wright
+Brian Austin, Dhruva Kulkarni, Samuel Williams, Nicholas Wright\\
+_Lawrence Berkeley National Laboratory, USA_
 
 ---
 {: style="width: 30%;"}
@@ -50,7 +55,8 @@ Austin, Kulkarni, Williams, Wright
 **10:50 - 11:10**\\
 **Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Zen 4**
 
-Laukemann, Hager, Wellein
+Jan Laukemann, Georg Hager, Gerhard Wellein\\
+_University of Erlangen-Nuremberg, Germany_
 
 ---
 {: style="width: 30%;"}
@@ -67,7 +73,8 @@ _Pázmány Péter Catholic University, Hungary_
 **11:30 - 12:00**\\
 **Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs**
 
-Bertolli, Blass, Lehr, Bercea, Chakrabarti, Stringer, Aschenbrenner, Meadows, Liberman
+Carlo Bertolli, Thorsten Blass, Jan-Patrick Lehr, Doru Bercea, Dhruva Chakrabarti, Lynd Stringer, Nicole Aschenbrenner, Lawrence Meadows, Ron Liberman\\
+_AMD Research, USA_
 
 ---
 {: style="width: 30%;"}
@@ -75,7 +82,15 @@ Bertolli, Blass, Lehr, Bercea, Chakrabarti, Stringer, Aschenbrenner, Meadows, Li
 **12:00 - 12:30 Best Paper**\\
 **Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems**
 
-Applencourt, Sadawarte, Muralidharan, Bertoni, Kwack, Luo, Rangel, Tramm, Ghadar, Tamerus, Edsall, Deakin
+Thomas Applencourt, Servesh Muralidharan, Colleen Bertoni,  Jae-Hyuk Kwack, Ye Luo, Esteban Rangel, John Tramm, Yasaman Ghadar\\
+_Argonne National Laboratory, USA_
+
+Aditya Sadawarte, Tom Deakin\\
+_University of Bristol, UK_
+
+Arjen Tamerus, Chris Edsall\\
+_University of Cambridge, UK_
+
 
 ---
 
@@ -89,7 +104,8 @@ Applencourt, Sadawarte, Muralidharan, Bertoni, Kwack, Luo, Rangel, Tramm, Ghadar
 **14:00 - 14:30**\\
 **Hello SME!**
 
-Remke, Breuer
+Stefan Remke, Alexander Breuer\\
+_Friedrich Schiller University Jena, Germany_
 
 ---
 {: style="width: 30%;"}
@@ -97,7 +113,8 @@ Remke, Breuer
 **14:30 - 15:00**\\
 **AI-Assisted Design-Space Analysis of High-Performance Arm Processors**
 
-Moore, Deakin, McIntosh-Smith
+Joseph Moore, Tom Deakin, Simon McIntosh-Smith\\
+_University of Bristol, UK_
 
 ---
 
@@ -111,7 +128,11 @@ Moore, Deakin, McIntosh-Smith
 **15:30 - 16:00**\\
 **Impact of Varying BLAS Precision on DCMESH**
 
-Piroozan, Pennycook, Razakh, Caday, Kumar, Nakano
+Nariman Piroozan, S. John Pennycook, Peter Caday, Nalini Kumar\\
+_Intel Corporation, USA_
+
+Taufeq Razakh, Aiichiro Nakano\\
+_University of Southern California, USA_
 
 ---
 {: style="width: 30%;"}
@@ -119,7 +140,8 @@ Piroozan, Pennycook, Razakh, Caday, Kumar, Nakano
 **16:00 - 16:30**\\
 **Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems**
 
-Wilkinson, Cockrean, Lin, McIntosh-Smith, Deakin
+Finn Wilkinson, Alex Cockrean, Wei-Chen Lin, Simon McIntosh-Smith, Tom Deakin\\
+_University of Bristol, UK_
 
 ## Session 6: System Modeling
 ### Chair: TBA
@@ -127,7 +149,8 @@ Wilkinson, Cockrean, Lin, McIntosh-Smith, Deakin
 **16:30 - 17:00**\\
 **Understanding VASP Power Profiles on NVIDIA A100 GPUs**
 
-Zhao, Austin, Rrapaj, Wright
+Zhengji Zhao, Brian Austin, Ermal Rrapaj, Nicholas Wright\\
+_Lawrence Berkeley National Laboratory, USA_
 
 ---
 {: style="width: 30%;"}
@@ -135,7 +158,11 @@ Zhao, Austin, Rrapaj, Wright
 **17:00 - 17:30**\\
 **Workload-adaptive Scheduling for Efficient Use of Parallel File System in High-performance Computing Clusters**
 
-Goponenko, Allan, Brandt, Dechev
+Alexander Goponenko, Damian Dechev\\
+_University of Central Florida, USA_
+
+Benjamin Allan, James Brandt\\
+_Sandia National Laboratories, USA_ 
 
 ---
 
