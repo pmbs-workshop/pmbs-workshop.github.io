@@ -14,7 +14,7 @@ _TBA_
 
 ---
 
-## Session 1: Best Papers
+## Session 1: Large Language Models
 #### Chair: TBA
 
 **09:00 - 09:30**\\
