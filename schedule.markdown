@@ -9,13 +9,13 @@ order: 2
 
 **09:00 PMBS Introduction and Welcome**
 
-TBA\\
-_TBA_
+Steven Wright\\
+_University of York, UK_
 
 ---
 
 ## Session 1: Large Language Models
-#### Chair: TBA
+#### Chair: Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, USA_
 
 **09:00 - 09:30**\\
 **LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**
@@ -42,7 +42,7 @@ _Stony Brook University, USA_
 ---
 
 ## Session 2: Short Papers
-### Chair: TBA
+### Chair: Sascha Hunold, _TU Wien, Austria_
 
 **10:30 - 10:50 Best Short Paper**\\
 **System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer**
@@ -69,7 +69,7 @@ István Z. Reguly, Balázs Drávai\\
 _Pázmány Péter Catholic University, Hungary_
 
 ## Session 3: Accelerators
-### Chair: TBA
+### Chair: _University of York, UK_
 
 **11:30 - 12:00**\\
 **Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs**
@@ -100,7 +100,7 @@ _University of Cambridge, UK_
 ---
 
 ## Session 4: ARM Architectures
-### Chair: TBA
+### Chair: Lilia Zaourar, _CEA, France_
 
 **14:00 - 14:30**\\
 **Hello SME!**
@@ -124,7 +124,7 @@ _University of Bristol, UK_
 ---
 
 ## Session 5: Performance of BLAS
-### Chair: TBA
+### Chair: István Reguly, _Pázmány Péter Catholic University, Hungary_
 
 **15:30 - 16:00**\\
 **Impact of Varying BLAS Precision on DCMESH**
@@ -145,7 +145,7 @@ Finn Wilkinson, Alex Cockrean, Wei-Chen Lin, Simon McIntosh-Smith, Tom Deakin\\
 _University of Bristol, UK_
 
 ## Session 6: System Modeling
-### Chair: TBA
+### Chair: Simon Hammond, _National Nuclear Security Administration, USA_
 
 **16:30 - 17:00**\\
 **Understanding VASP Power Profiles on NVIDIA A100 GPUs**
