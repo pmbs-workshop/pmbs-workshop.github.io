@@ -69,7 +69,7 @@ István Z. Reguly, Balázs Drávai\\
 _Pázmány Péter Catholic University, Hungary_
 
 ## Session 3: Accelerators
-### Chair: _University of York, UK_
+### Chair: Steven Wright, _University of York, UK_
 
 **11:30 - 12:00**\\
 **Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs**
