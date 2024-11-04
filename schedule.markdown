@@ -1,13 +1,12 @@
 ---
 layout: default
 order: 2
----
-
-[//]: title: Schedule 
+title: Schedule
+--- 
 
 # Schedule
 
-**09:00 PMBS Introduction and Welcome**
+**09:00 PMBS Introduction and Welcome -- B303, The Georgia World Congress Center, Atlanta**
 
 Steven Wright\\
 _University of York, UK_

@@ -4,8 +4,7 @@ title: Welcome
 order: 1
 ---
 
-{% include note.html content="The deadline for paper submissions has been extended by one week. 
-The new deadline will be Thursday 8th August 2024 (23:59 AoE)." %}
+{% include important.html content="The PMBS Workshop will be held on Monday 18th November in B303 of The Georgia World Congress Center, Atlanta. The digital experience will be available [here](https://sc24.conference-program.com/session/?sess=sess748)." %}
 
 
 [//]: {% include important.html content="The proceedings for this year's workshop are now available on the link above.
