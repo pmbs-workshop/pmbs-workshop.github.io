@@ -74,7 +74,7 @@ _Pázmány Péter Catholic University, Hungary_
 **Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs**
 
 Carlo Bertolli, Thorsten Blass, Jan-Patrick Lehr, Doru Bercea, Dhruva Chakrabarti, Lynd Stringer, Nicole Aschenbrenner, Lawrence Meadows, Ron Liberman\\
-_AMD Research, USA_
+_AMD, USA_
 
 ---
 {: style="width: 30%;"}
