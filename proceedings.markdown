@@ -1,6 +1,7 @@
 ---
 layout: redirect
-redirect: https://dl.acm.org/doi/proceedings/10.1145/3624062#heading27
+title: Proceedings
+redirect: https://conferences.computer.org/sc-wpub
 order: 3
 ---
 
