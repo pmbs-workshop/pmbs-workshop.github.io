@@ -17,7 +17,7 @@ _University of York, UK_
 #### Chair: Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, USA_
 
 **09:00 - 09:30**\\
-**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**
+**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators** [[abstract]](abstract01.html)
 
 Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus, Aditya Tanikanti, Ken Raffenetti, Valerie Taylor, Murali Emani, Venkatram Vishwanath\\
 _Argonne National Laboratory, USA_
@@ -26,7 +26,7 @@ _Argonne National Laboratory, USA_
 {: style="width: 30%;"}
 
 **09:30 - 10:00**\\
-**Comprehensive Performance Modeling and System Design Insights for Foundation Models**
+**Comprehensive Performance Modeling and System Design Insights for Foundation Models** [[abstract]](abstract02.html)
 
 Shashank Subramanian, Ermal Rrapaj, Peter Harrington, Steven Farrell, Brian Austin, Samuel Williams, Nicholas Wright, Wahid Bhimji\\
 _Lawrence Berkeley National Laboratory, USA_
@@ -44,7 +44,7 @@ _Stony Brook University, USA_
 ### Chair: Sascha Hunold, _TU Wien, Austria_
 
 **10:30 - 10:50 Best Short Paper**\\
-**System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer**
+**System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer** [[abstract]](abstract03.html)
 
 Brian Austin, Dhruva Kulkarni, Samuel Williams, Nicholas Wright\\
 _Lawrence Berkeley National Laboratory, USA_
@@ -53,7 +53,7 @@ _Lawrence Berkeley National Laboratory, USA_
 {: style="width: 30%;"}
 
 **10:50 - 11:10**\\
-**Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Zen 4**
+**Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Zen 4** [[abstract]](abstract04.html)
 
 Jan Laukemann, Georg Hager, Gerhard Wellein\\
 _University of Erlangen-Nuremberg, Germany_
@@ -62,7 +62,7 @@ _University of Erlangen-Nuremberg, Germany_
 {: style="width: 30%;"}
 
 **11:10 - 11:30**\\
-**Benchmarking the Evolution of Performance and Energy Efficiency Across Recent Generations of Intel Xeon Processors**
+**Benchmarking the Evolution of Performance and Energy Efficiency Across Recent Generations of Intel Xeon Processors** [[abstract]](abstract05.html)
 
 István Z. Reguly, Balázs Drávai\\
 _Pázmány Péter Catholic University, Hungary_
@@ -71,7 +71,7 @@ _Pázmány Péter Catholic University, Hungary_
 ### Chair: Steven Wright, _University of York, UK_
 
 **11:30 - 12:00**\\
-**Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs**
+**Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs** [[abstract]](abstract06.html)
 
 Carlo Bertolli, Thorsten Blass, Jan-Patrick Lehr, Doru Bercea, Dhruva Chakrabarti, Lynd Stringer, Nicole Aschenbrenner, Lawrence Meadows, Ron Liberman\\
 _AMD, USA_
@@ -80,7 +80,7 @@ _AMD, USA_
 {: style="width: 30%;"}
 
 **12:00 - 12:30 Best Paper**\\
-**Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems**
+**Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems** [[abstract]](abstract07.html)
 
 Thomas Applencourt, Servesh Muralidharan, Colleen Bertoni,  Jae-Hyuk Kwack, Ye Luo, Esteban Rangel, John Tramm, Yasaman Ghadar\\
 _Argonne National Laboratory, USA_
@@ -102,7 +102,7 @@ _University of Cambridge, UK_
 ### Chair: Lilia Zaourar, _CEA, France_
 
 **14:00 - 14:30**\\
-**Hello SME!**
+**Hello SME!** [[abstract]](abstract08.html)
 
 Stefan Remke, Alexander Breuer\\
 _Friedrich Schiller University Jena, Germany_
@@ -111,7 +111,7 @@ _Friedrich Schiller University Jena, Germany_
 {: style="width: 30%;"}
 
 **14:30 - 15:00**\\
-**AI-Assisted Design-Space Analysis of High-Performance Arm Processors**
+**AI-Assisted Design-Space Analysis of High-Performance Arm Processors** [[abstract]](abstract09.html)
 
 Joseph Moore, Tom Deakin, Simon McIntosh-Smith\\
 _University of Bristol, UK_
@@ -126,7 +126,7 @@ _University of Bristol, UK_
 ### Chair: István Reguly, _Pázmány Péter Catholic University, Hungary_
 
 **15:30 - 16:00**\\
-**Impact of Varying BLAS Precision on DCMESH**
+**Impact of Varying BLAS Precision on DCMESH** [[abstract]](abstract10.html)
 
 Nariman Piroozan, S. John Pennycook, Peter Caday, Nalini Kumar\\
 _Intel Corporation, USA_
@@ -138,7 +138,7 @@ _University of Southern California, USA_
 {: style="width: 30%;"}
 
 **16:00 - 16:30**\\
-**Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems**
+**Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems** [[abstract]](abstract11.html)
 
 Finn Wilkinson, Alex Cockrean, Wei-Chen Lin, Simon McIntosh-Smith, Tom Deakin\\
 _University of Bristol, UK_
@@ -147,7 +147,7 @@ _University of Bristol, UK_
 ### Chair: Simon Hammond, _National Nuclear Security Administration, USA_
 
 **16:30 - 17:00**\\
-**Understanding VASP Power Profiles on NVIDIA A100 GPUs**
+**Understanding VASP Power Profiles on NVIDIA A100 GPUs** [[abstract]](abstract12.html)
 
 Zhengji Zhao, Brian Austin, Ermal Rrapaj, Nicholas Wright\\
 _Lawrence Berkeley National Laboratory, USA_
@@ -156,7 +156,7 @@ _Lawrence Berkeley National Laboratory, USA_
 {: style="width: 30%;"}
 
 **17:00 - 17:30**\\
-**Workload-adaptive Scheduling for Efficient Use of Parallel File System in High-performance Computing Clusters**
+**Workload-adaptive Scheduling for Efficient Use of Parallel File System in High-performance Computing Clusters** [[abstract]](abstract13.html)
 
 Alexander Goponenko, Damian Dechev\\
 _University of Central Florida, USA_
