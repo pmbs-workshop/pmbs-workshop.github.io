@@ -80,7 +80,7 @@ _AMD, USA_
 {: style="width: 30%;"}
 
 **12:00 - 12:30 Best Paper**\\
-**Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems** [[abstract]](abstract07.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b423/555400b423.pdf)
+**Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems** [[abstract]](abstract07.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b423/555400b423.pdf) [[presentation]](slides/pres07.pdf)
 
 Thomas Applencourt, Servesh Muralidharan, Colleen Bertoni,  Jae-Hyuk Kwack, Ye Luo, Esteban Rangel, John Tramm, Yasaman Ghadar\\
 _Argonne National Laboratory, USA_
@@ -138,7 +138,7 @@ _University of Southern California, USA_
 {: style="width: 30%;"}
 
 **16:00 - 16:30**\\
-**Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems** [[abstract]](abstract11.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b474/555400b474.pdf)
+**Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems** [[abstract]](abstract11.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b474/555400b474.pdf) [[presentation]](slides/pres11.pptx)
 
 Finn Wilkinson, Alex Cockrean, Wei-Chen Lin, Simon McIntosh-Smith, Tom Deakin\\
 _University of Bristol, UK_
