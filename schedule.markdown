@@ -53,7 +53,7 @@ _Lawrence Berkeley National Laboratory, USA_
 {: style="width: 30%;"}
 
 **10:50 - 11:10**\\
-**Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Zen 4** [[abstract]](abstract04.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b398/555400b398.pdf)
+**Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Zen 4** [[abstract]](abstract04.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b398/555400b398.pdf) [[presentation]](slides/pres04.pdf)
 
 Jan Laukemann, Georg Hager, Gerhard Wellein\\
 _University of Erlangen-Nuremberg, Germany_
@@ -62,7 +62,7 @@ _University of Erlangen-Nuremberg, Germany_
 {: style="width: 30%;"}
 
 **11:10 - 11:30**\\
-**Benchmarking the Evolution of Performance and Energy Efficiency Across Recent Generations of Intel Xeon Processors** [[abstract]](abstract05.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b406/555400b406.pdf)
+**Benchmarking the Evolution of Performance and Energy Efficiency Across Recent Generations of Intel Xeon Processors** [[abstract]](abstract05.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b406/555400b406.pdf) [[presentation]](slides/pres05.pdf)
 
 István Z. Reguly, Balázs Drávai\\
 _Pázmány Péter Catholic University, Hungary_
