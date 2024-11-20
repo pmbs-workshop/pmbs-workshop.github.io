@@ -102,7 +102,7 @@ _University of Cambridge, UK_
 ### Chair: Lilia Zaourar, _CEA, France_
 
 **14:00 - 14:30**\\
-**Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension** [[abstract]](abstract08.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b436/555400b436.pdf)
+**Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension** [[abstract]](abstract08.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b436/555400b436.pdf) [[presentation]](slides/pres08.pdf)
 
 Stefan Remke, Alexander Breuer\\
 _Friedrich Schiller University Jena, Germany_
