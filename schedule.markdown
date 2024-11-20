@@ -26,7 +26,7 @@ _Argonne National Laboratory, USA_
 {: style="width: 30%;"}
 
 **09:30 - 10:00**\\
-**Comprehensive Performance Modeling and System Design Insights for Foundation Models** [[abstract]](abstract02.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b373/555400b373.pdf)
+**Comprehensive Performance Modeling and System Design Insights for Foundation Models** [[abstract]](abstract02.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b373/555400b373.pdf) [[presentation]](slides/pres02.pdf)
 
 Shashank Subramanian, Ermal Rrapaj, Peter Harrington, Steven Farrell, Brian Austin, Samuel Williams, Nicholas Wright, Wahid Bhimji\\
 _Lawrence Berkeley National Laboratory, USA_
