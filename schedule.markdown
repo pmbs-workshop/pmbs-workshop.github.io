@@ -17,7 +17,7 @@ _University of York, UK_
 #### Chair: Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, USA_
 
 **09:00 - 09:30**\\
-**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators** [[abstract]](abstract01.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b355/555400b355.pdf)
+**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators** [[abstract]](abstract01.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b355/555400b355.pdf) [[presentation]](slides/pres01.pdf)
 
 Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus, Aditya Tanikanti, Ken Raffenetti, Valerie Taylor, Murali Emani, Venkatram Vishwanath\\
 _Argonne National Laboratory, USA_
@@ -156,7 +156,7 @@ _Lawrence Berkeley National Laboratory, USA_
 {: style="width: 30%;"}
 
 **17:00 - 17:30**\\
-**Workload-adaptive Scheduling for Efficient Use of Parallel File System in High-performance Computing Clusters** [[abstract]](abstract13.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b499/555400b499.pdf)
+**Workload-adaptive Scheduling for Efficient Use of Parallel File System in High-performance Computing Clusters** [[abstract]](abstract13.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b499/555400b499.pdf) [[presentation]](slides/pres13.pdf)
 
 Alexander Goponenko, Damian Dechev\\
 _University of Central Florida, USA_
