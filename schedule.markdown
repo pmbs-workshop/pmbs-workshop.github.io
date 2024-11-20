@@ -147,7 +147,7 @@ _University of Bristol, UK_
 ### Chair: Simon Hammond, _National Nuclear Security Administration, USA_
 
 **16:30 - 17:00**\\
-**Understanding VASP Power Profiles on NVIDIA A100 GPUs** [[abstract]](abstract12.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b489/555400b489.pdf)
+**Understanding VASP Power Profiles on NVIDIA A100 GPUs** [[abstract]](abstract12.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b489/555400b489.pdf) [[presentation]](slides/pres12.pptx)
 
 Zhengji Zhao, Brian Austin, Ermal Rrapaj, Nicholas Wright\\
 _Lawrence Berkeley National Laboratory, USA_
