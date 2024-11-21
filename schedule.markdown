@@ -71,7 +71,7 @@ _Pázmány Péter Catholic University, Hungary_
 ### Chair: Steven Wright, _University of York, UK_
 
 **11:30 - 12:00**\\
-**Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs** [[abstract]](abstract06.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b413/555400b413.pdf)
+**Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs** [[abstract]](abstract06.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b413/555400b413.pdf) [[presentation]](slides/pres06.pdf)
 
 Carlo Bertolli, Thorsten Blass, Jan-Patrick Lehr, Doru Bercea, Dhruva Chakrabarti, Lynd Stringer, Nicole Aschenbrenner, Lawrence Meadows, Ron Liberman\\
 _AMD, USA_
