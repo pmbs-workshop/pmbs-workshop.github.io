@@ -111,7 +111,7 @@ _Friedrich Schiller University Jena, Germany_
 {: style="width: 30%;"}
 
 **14:30 - 15:00**\\
-**AI-Assisted Design-Space Analysis of High-Performance Arm Processors** [[abstract]](abstract09.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b448/555400b448.pdf)
+**AI-Assisted Design-Space Analysis of High-Performance Arm Processors** [[abstract]](abstract09.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b448/555400b448.pdf) [[presentation]](slides/pres09.pdf)
 
 Joseph Moore, Tom Deakin, Simon McIntosh-Smith\\
 _University of Bristol, UK_
