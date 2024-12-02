@@ -44,7 +44,7 @@ _Stony Brook University, USA_
 ### Chair: Sascha Hunold, _TU Wien, Austria_
 
 **10:30 - 10:50 Best Short Paper**\\
-**System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer** [[abstract]](abstract03.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b391/555400b391.pdf)
+**System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer** [[abstract]](abstract03.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b391/555400b391.pdf) [[presentation]](slides/pres03.pdf)
 
 Brian Austin, Dhruva Kulkarni, Samuel Williams, Nicholas Wright\\
 _Lawrence Berkeley National Laboratory, USA_
