@@ -4,7 +4,7 @@ title: Welcome
 order: 1
 ---
 
-{% include important.html content="The PMBS Workshop will be held on Monday 18th November in B303 of The Georgia World Congress Center, Atlanta. The digital experience will be available [here](https://sc24.conference-program.com/session/?sess=sess748)." %}
+[//]: {% include important.html content="The PMBS Workshop will be held on Monday 18th November in B303 of The Georgia World Congress Center, Atlanta. The digital experience will be available [here](https://sc24.conference-program.com/session/?sess=sess748)." %}
 
 
 [//]: {% include important.html content="The proceedings for this year's workshop are now available on the link above.
@@ -13,7 +13,7 @@ order: 1
 Welcome
 =======
 
-The PMBS24 workshop is concerned with the comparison of high-performance computer systems through 
+The PMBS25 workshop is concerned with the comparison of high-performance computer systems through 
 performance modeling, benchmarking or through the use of tools such as simulators.
 
 We are particularly interested in research which reports the ability to measure and make trade-offs 
@@ -56,17 +56,18 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* ~~August 1st~~ August 8th 2024 (23:59 AoE) - Full Paper Submissions
-* September 1st 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
-* September 4th 2024 - Full Paper Notifications
-* September 11th 2024 - Late Breaking and Short Paper Notifications
-* September 15th 2024 - Camera Ready Papers Due
-* **November 18th 2024 - PMBS24 Workshop**
+* August 6th 2025 (23:59 AoE) - Full Paper Submissions
+* September 3rd 2025 (23:59 AoE) - Late Breaking and Short Paper Submissions
+* September 12th 2025 - Full Paper Notifications
+* September 24th 2025 - Late Breaking and Short Paper Notifications
+* September 26th 2025 - Camera Ready Papers Due
+* **November 2025 - PMBS25 Workshop**
 
 
 Previous Workshops
 ------------------
 
+PMBS24 [[Website]](past-workshops/pmbs24/) [[Proceedings]](https://dl.acm.org/doi/proceedings/10.5555/3715674#heading29) (Atlanta, GA)  
 PMBS23 [[Website]](past-workshops/pmbs23/) [[Proceedings]](https://dl.acm.org/doi/proceedings/10.1145/3624062#heading27) (Denver, CO)  
 PMBS22 [[Website]](past-workshops/pmbs22/) [[Proceedings]](https://ieeexplore.ieee.org/xpl/conhome/10024010/proceeding) (Dallas, TX)  
 PMBS21 [[Website]](past-workshops/pmbs21/) [[Proceedings]](https://ieeexplore.ieee.org/xpl/conhome/9652586/proceeding) (St. Louis, MO, and Virtual)  

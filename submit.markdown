@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Submit Paper
 order: 5
 ---
+
+[//]: title: Submit Paper
 
 Submit A Paper
 ==============
