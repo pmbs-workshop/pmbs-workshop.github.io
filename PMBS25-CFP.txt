@@ -7,7 +7,7 @@ Benchmarking and Simulation of High Performance Computer Systems
 
 held in conjunction with IEEE/ACM SC25, St. Louis, MO, November 2025
 
-http://pmbs-workshop.github.io
+https://pmbs-workshop.github.io
 
 ===============================================================================
 
