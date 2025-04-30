@@ -1,21 +1,17 @@
 ===============================================================================
 
-PMBS 2024 :: Call for Papers
+PMBS 2025 :: Call for Papers
 
-15th International Workshop on Performance Modeling, 
+16th International Workshop on Performance Modeling, 
 Benchmarking and Simulation of High Performance Computer Systems
 
-held in conjunction with IEEE/ACM SC24, Atlanta, GA, November 2024
+held in conjunction with IEEE/ACM SC25, St. Louis, MO, November 2025
 
-http://www.pmbsworkshop.org
+http://pmbs-workshop.github.io
 
 ===============================================================================
-*******************************************************************************
-   DEADLINE EXTENSION: August 8th 2024 (23:59 AoE) - Full Paper Submissions
-*******************************************************************************
-===============================================================================
 
-The PMBS24 workshop is concerned with the comparison of high-performance 
+The PMBS25 workshop is concerned with the comparison of high-performance 
 computer systems through performance modeling, benchmarking or through the use
 of tools such as simulators.
 
@@ -57,7 +53,7 @@ Work which examines similar topics will also be considered.
 === Submission Guidelines ===
 
 Authors are invited to submit full papers with unpublished, original work. 
-Submissions are limited to 8 pages using 10pt fonts in the IEEE conference 
+Submissions are limited to 8 pages using 10pt fonts in the ACM conference 
 proceedings template. The 8-page limit includes figures and tables, but does 
 not include appendices and references. 
 
@@ -82,15 +78,15 @@ results.
 
 === Important Dates ===
 
-**August 8th** 2024 (23:59 AoE) - Full Paper Submissions
-September 1st 2024 (23:59 AoE) - Late Breaking and Short Paper Submissions
-September 4th 2024 - Full Paper Notifications
-September 11th 2024 - Late Breaking and Short Paper Notifications
-September 15th 2024 - Camera Ready Papers Due
-November 18th 2024 - PMBS24 Workshop
+August 6th 2025 (23:59 AoE) - Full Paper Submissions
+September 3rd 2025 (23:59 AoE) - Late Breaking and Short Paper Submissions
+September 12th 2025 - Full Paper Notifications
+September 24th 2025 - Late Breaking and Short Paper Notifications
+September 26th 2025 - Camera Ready Papers Due
+November 2025 - PMBS25 Workshop
 
 === More Information ===
 
 For more information consult the PMBS Workshop homepage at: 
-http://www.pmbsworkshop.org
+https://pmbs-workshop.github.io
 
