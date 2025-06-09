@@ -20,6 +20,21 @@ Workshop Chairs
 Workshop Technical Programme Committee
 ------------------------------------
 
+* Tom Deakin, _University of Bristol, UK_
+* Aadesh Deshmukh, _AMD, USA_
+* Georg Hager, _Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
+* Jeff Hammond, _NVIDIA Corporation, Finland_
+* Michael Klemm, _OpenMP ARB & AMD, Germany_
+* Andrew Mallinson, _Intel Corporation, UK_
+* Kewen Meng, _AMD, USA_
+* Gihan Mudalige, _University of Warwick, UK_
+* John Pennycook, _Intel Corporation, UK_
+* Dirk Pleiter, _University of Groningen, The Netherlands_
+* Andrey Semin, _Apple Corporation, USA_
+* Aditya Sadawarte, _University of Bristol, UK_
+
+
+
 [//]: * Mauricio Araya-Polo, _TotalEnergies, USA_
 [//]: * Paolo Bientinesi, _Umeå universitet, Sweden_
 [//]: * Francieli Boito, _University of Bordeaux, France_

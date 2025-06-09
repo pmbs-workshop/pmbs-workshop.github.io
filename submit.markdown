@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Submit Paper
 order: 5
 ---
 
