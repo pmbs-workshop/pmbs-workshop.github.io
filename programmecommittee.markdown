@@ -29,6 +29,8 @@ Workshop Technical Programme Committee
 * Ryusuke Egawa, _Tokyo Denki University, Japan_
 * Ahmed Eleliemy, _HPE EMEA Research Lab, Switzerland_
 * Jiri Filipovic, _Masaryk University, Czech Republic_
+* Paddy Gillies, _European Centre for Medium-Range Weather Forecasts, UK_
+* Rubén Gran-Tejero, _Universidad de Zaragoza, Spain_
 * Georg Hager, _Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
 * Michael Klemm, _OpenMP ARB & AMD, Germany_
@@ -37,8 +39,10 @@ Workshop Technical Programme Committee
 * Ali Mohammed, _HPE EMEA Research Lab, Switzerland_
 * Gihan Mudalige, _University of Warwick, UK_
 * Jonas Müller Korndörfer, _University of Bern, Switzerland_
+* Naohito Nakasato, _University of Aizu, Japan_
 * John Pennycook, _Intel Corporation, UK_
 * Dirk Pleiter, _University of Groningen, The Netherlands_
+* Ari Rasch, _University of Münster, Germany_
 * István Reguly, _Pázmány Péter Catholic University, Hungary_
 * Aditya Sadawarte, _University of Bristol, UK_
 * Andrey Semin, _Apple Corporation, USA_
