@@ -21,6 +21,7 @@ Workshop Technical Programme Committee
 ------------------------------------
 
 * Mauricio Araya-Polo, _TotalEnergies, USA_
+* Stephanie Brink, _Lawrence Livermore National Laboratory, USA_
 * Dominic Brown, _NVIDIA, UK_
 * Pedro Bruel, _HPE, USA_
 * Patrick Carribaut, _CEA, France_
@@ -33,6 +34,8 @@ Workshop Technical Programme Committee
 * Rubén Gran-Tejero, _Universidad de Zaragoza, Spain_
 * Georg Hager, _Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
 * Jeff Hammond, _NVIDIA Corporation, Finland_
+* Nikhil Jain, _NVIDIA Corporation, USA_
+* Ana Jokanović, _Hokus Platform, Spain_
 * Michael Klemm, _OpenMP ARB & AMD, Germany_
 * Andrew Mallinson, _Intel Corporation, UK_
 * Kewen Meng, _AMD, USA_
@@ -53,5 +56,6 @@ Workshop Technical Programme Committee
 * Alejandro Valero, _Universidad de Zaragoza, Spain_
 * Ben van Werkhoven, _Netherlands eScience Center, Netherlands_
 * Lilia Zaourar, _CEA, France_
+* Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, USA_
 
 
