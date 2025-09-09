@@ -58,7 +58,7 @@ Important Workshop Dates
 * August ~~6th~~ **13th** 2025 (23:59 AoE) - Full Paper Submissions
 * September 3rd 2025 (23:59 AoE) - Late Breaking and Short Paper Submissions
 * September 12th 2025 - Full Paper Notifications
-* September 24th 2025 - Late Breaking and Short Paper Notifications
+* September 19th 2025 - Late Breaking and Short Paper Notifications
 * September 26th 2025 - Camera Ready Papers Due
 * **November 2025 - PMBS25 Workshop**
 
