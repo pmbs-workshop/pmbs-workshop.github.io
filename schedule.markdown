@@ -182,7 +182,7 @@ _Qualcomm, USA_
 **15:30 - 16:00**\\
 **Characterizing the Impact of GPU Power Management on an Exascale System**
 
-Mariana , Philippe O. A. Navaux, Arthur Lorenzon\\
+Mariana Costa, Philippe O. A. Navaux, Arthur Lorenzon\\
 _Universidade Federal do Rio Grande do Sul, Brazil_
 
 Antigoni Georgiadou, James B. White III, Woong Shin, Bronson Messer\\
