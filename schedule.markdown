@@ -7,33 +7,41 @@ order: 2
 
 # Schedule
 
-**09:00 PMBS Introduction and Welcome -- B303, The Georgia World Congress Center, Atlanta**
+**09:00 PMBS Introduction and Welcome -- America's Center Convention Complex, St. Louis**
 
-Steven Wright\\
-_University of York, UK_
+TBA\\
+_TBA_
 
 ---
 
-## Session 1: Large Language Models
-#### Chair: Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, USA_
+## Session 1: Performance Modeling
+#### Chair: TBA, _TBA_
 
 **09:00 - 09:30**\\
-**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators** [[abstract]](abstract01.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b355/555400b355.pdf) [[presentation]](slides/pres01.pdf)
+**Modelling Load Imbalance In Shared Memory Multicore Systems**
 
-Krishna Teja Chitty-Venkata, Siddhisanket Raskar, Bharat Kale, Farah Ferdaus, Aditya Tanikanti, Ken Raffenetti, Valerie Taylor, Murali Emani, Venkatram Vishwanath\\
-_Argonne National Laboratory, USA_
+Johannes Langguth\\
+_Simula Research Laboratory, Norway_\\
+_University of Bergen, Norway_ 
+
+James Trotter\\
+_Simula Research Laboratory, Norway_
+
+Xing Cai\\
+_University of Oslo, Norway_\\
+_Simula Research Laboratory, Norway_
 
 ---
 {: style="width: 30%;"}
 
 **09:30 - 10:00**\\
-**Comprehensive Performance Modeling and System Design Insights for Foundation Models** [[abstract]](abstract02.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b373/555400b373.pdf) [[presentation]](slides/pres02.pdf)
+**A Peak Performance Model for All-to-all on Hierarchical Systems and Its Applications**
 
-Shashank Subramanian, Ermal Rrapaj, Peter Harrington, Steven Farrell, Brian Austin, Samuel Williams, Nicholas Wright, Wahid Bhimji\\
-_Lawrence Berkeley National Laboratory, USA_
+Rohini Uma-Vaideswaran, Daniel Dotson, P. K. Yeung\\
+_Georgia Institute of Technology, USA_
 
-Smeet Chheda\\
-_Stony Brook University, USA_
+Joshua Romero, David Appelhans\\
+_NVIDIA Corporation, USA_
 
 ---
 
@@ -41,57 +49,96 @@ _Stony Brook University, USA_
 
 ---
 
-## Session 2: Short Papers
-### Chair: Sascha Hunold, _TU Wien, Austria_
+## Session 2: Accuracy and Fidelity of Applications and Simulators
+### Chair: TBA, _TBA_
 
-**10:30 - 10:50 Best Short Paper**\\
-**System-Wide Roofline Profiling - a Case Study on NERSC’s Perlmutter Supercomputer** [[abstract]](abstract03.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b391/555400b391.pdf) [[presentation]](slides/pres03.pdf)
+**10:30 - 11:00**\\
+**Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration**
 
-Brian Austin, Dhruva Kulkarni, Samuel Williams, Nicholas Wright\\
-_Lawrence Berkeley National Laboratory, USA_
+Jesse McDonald, Yick-Ching Wong, Henri Casanova\\
+_University of Hawaii at Manoa, USA_
 
----
-{: style="width: 30%;"}
+Kshitij Mehta, Frederic Suter, Rafael Ferreira Da Silva\\
+_Oak Ridge National Laboratory, USA_
 
-**10:50 - 11:10**\\
-**Microarchitectural comparison and in-core modeling of state-of-the-art CPUs: Grace, Sapphire Rapids, and Zen 4** [[abstract]](abstract04.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b398/555400b398.pdf) [[presentation]](slides/pres04.pdf)
+Loic Pottier\\
+_Lawrence Livermore National Laboratory, USA_
 
-Jan Laukemann, Georg Hager, Gerhard Wellein\\
-_University of Erlangen-Nuremberg, Germany_
-
----
-{: style="width: 30%;"}
-
-**11:10 - 11:30**\\
-**Benchmarking the Evolution of Performance and Energy Efficiency Across Recent Generations of Intel Xeon Processors** [[abstract]](abstract05.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b406/555400b406.pdf) [[presentation]](slides/pres05.pdf)
-
-István Z. Reguly, Balázs Drávai\\
-_Pázmány Péter Catholic University, Hungary_
-
-## Session 3: Accelerators
-### Chair: Steven Wright, _University of York, UK_
-
-**11:30 - 12:00**\\
-**Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs** [[abstract]](abstract06.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b413/555400b413.pdf) [[presentation]](slides/pres06.pdf)
-
-Carlo Bertolli, Thorsten Blass, Jan-Patrick Lehr, Doru Bercea, Dhruva Chakrabarti, Lynd Stringer, Nicole Aschenbrenner, Lawrence Meadows, Ron Liberman\\
-_AMD, USA_
+Ewa Deelman\\
+_University of Southern California, USA_
 
 ---
 {: style="width: 30%;"}
 
-**12:00 - 12:30 Best Paper**\\
-**Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems** [[abstract]](abstract07.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b423/555400b423.pdf) [[presentation]](slides/pres07.pdf)
+**11:00 - 11:30 Best Paper**\\
+**Beyond Guess and Check: Quantifying the Fidelity of Proxy Applications**
 
-Thomas Applencourt, Servesh Muralidharan, Colleen Bertoni,  Jae-Hyuk Kwack, Ye Luo, Esteban Rangel, John Tramm, Yasaman Ghadar\\
-_Argonne National Laboratory, USA_
+Si Chen\\
+_Emory University, USA_
 
-Aditya Sadawarte, Tom Deakin\\
-_University of Bristol, UK_
+Simon Garcia de Gonzalo, Omar Aaziz, Jeanine Cook\\
+_Sandia National Laboratories, USA_
 
-Arjen Tamerus, Chris Edsall\\
-_University of Cambridge, UK_
+Avani Wildani\\
+_Cloudflare, USA_
 
+---
+{: style="width: 30%;"}
+
+## Session 3: Short Papers
+### Chair: TBA, _TBA_
+
+**11:30 - 11:45 Best Short Paper**\\
+**CGSim: A Simulation Framework for Large Scale Distributed Computing Environment**
+
+Sairam Sri Vatsavai, Kuan-Chieh Hsu, Ozgur Kilic, Yihui (Ray) Ren, David Park, Paul Nilsson, Sankha Dutta, Tasnuva Chowdhury, Adolfy Hoisie, Tadashi Maeno, Shinjae Yoo, Alexei Klimentov\\
+_Brookhaven National Laboratory, USA_
+
+Raees Khan Ahmed, Tania Korchuganova, Joseph Boudreau\\
+_University of Pittsburgh, USA_
+
+Shengyu Feng, Yiming Yang\\
+_Carnegie Mellon University, USA_
+
+Fatih Furkan Akman, Verena Ingrid Martinez Outschoorn, John Rembrandt (Remy) Steele\\
+_University of Massachusetts, USA_
+
+Scott Klasky, Norbert Podhorszki, Fred Suter\\
+_Oak Ridge National Laboratory, USA_
+
+Wei Yang\\
+_SLAC National Accelerator Laboratory, USA_
+
+---
+{: style="width: 30%;"}
+
+**11:45 - 12:00**\\
+**PerfAnalyzer: Revealing Performance Trends using Version Oriented Visual Analysis of Scientific Software**
+
+Kunal Pai, Mahyar Samani, Anusheel Nand, Jason Lowe-Power\\
+_University of California, Davis, USA_
+
+---
+{: style="width: 30%;"}
+
+**12:00 - 12:15**\\
+**Implications of Full-System Modeling for Superconducting Architectures**
+
+Sayef Azad Sakin\\
+_University of Utah, USA_\\
+_Los Alamos National Laboratory, USA_
+
+James Ahrens\\
+_Los Alamos National Laboratory, USA_
+
+---
+{: style="width: 30%;"}
+
+**12:15 - 12:30**\\
+**Experiences of Porting Structured and Unstructured Stencil Applications to FPGA using SYCL**
+
+Zadok Storkey, Steven A. Wright, Ian Gray\\
+_University of York, UK_
 
 ---
 
@@ -99,23 +146,29 @@ _University of Cambridge, UK_
 
 ---
 
-## Session 4: ARM Architectures
-### Chair: Lilia Zaourar, _CEA, France_
+## Session 4: Large Language Model
+### Chair: TBA, _TBA_
 
 **14:00 - 14:30**\\
-**Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension** [[abstract]](abstract08.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b436/555400b436.pdf) [[presentation]](slides/pres08.pdf)
+**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models**
 
-Stefan Remke, Alexander Breuer\\
-_Friedrich Schiller University Jena, Germany_
+Krishna Teja Chitty-Venkata, Murali Emani, Venkatram Vishwanath\\
+_Argonne National Laboratory, USA_
+
+Sylvia Howland, Golara Azar, Daria Soboleva, Natalia Vassilieva\\
+_Cerebras, USA_
+
+Siddhisanket Raskar\\
+_Pacific Northwest National Laboratory, USA_
 
 ---
 {: style="width: 30%;"}
 
 **14:30 - 15:00**\\
-**AI-Assisted Design-Space Analysis of High-Performance Arm Processors** [[abstract]](abstract09.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b448/555400b448.pdf) [[presentation]](slides/pres09.pdf)
+**Pretraining LLMs at Scale: Tuning Strategies and Performance Portability**
 
-Joseph Moore, Tom Deakin, Simon McIntosh-Smith\\
-_University of Bristol, UK_
+Adrián Pérez Diéguez, Àlex Batlle Casellas, Aleix Torres-Camps, Harris Teague,  Jordi Ros-Giralt\\
+_Qualcomm, USA_
 
 ---
 
@@ -123,47 +176,47 @@ _University of Bristol, UK_
 
 ---
 
-## Session 5: Performance of BLAS
-### Chair: István Reguly, _Pázmány Péter Catholic University, Hungary_
+## Session 5: Graphics Processing Units
+### Chair: TBA, _TBA_
 
 **15:30 - 16:00**\\
-**Impact of Varying BLAS Precision on DCMESH** [[abstract]](abstract10.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b461/555400b461.pdf)
+**Characterizing the Impact of GPU Power Management on an Exascale System**
 
-Nariman Piroozan, S. John Pennycook, Peter Caday, Nalini Kumar\\
-_Intel Corporation, USA_
+Mariana , Philippe O. A. Navaux, Arthur Lorenzon\\
+_Universidade Federal do Rio Grande do Sul, Brazil_
 
-Taufeq Razakh, Aiichiro Nakano\\
-_University of Southern California, USA_
+Antigoni Georgiadou, James B. White III, Woong Shin, Bronson Messer\\
+_Oak Ridge National Laboratory, USA_
+
+Bruno Villasenor Alvarez,  Jordà Polo\\
+_AMD, USA_
 
 ---
 {: style="width: 30%;"}
 
 **16:00 - 16:30**\\
-**Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems** [[abstract]](abstract11.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b474/555400b474.pdf) [[presentation]](slides/pres11.pptx)
+**A GPU FFT Wrapper to Co-optimize Floating-Point Precision and Library Selection via Predictive Error Modeling**
 
-Finn Wilkinson, Alex Cockrean, Wei-Chen Lin, Simon McIntosh-Smith, Tom Deakin\\
-_University of Bristol, UK_
+Julius Lehner, Eishi Arima, Martin Schulz\\
+_Technical University of Munich, Germany_
 
-## Session 6: System Modeling
-### Chair: Simon Hammond, _National Nuclear Security Administration, USA_
+## Session 6: System Performance and Scheduling
+### Chair: TBA, _TBA_
 
 **16:30 - 17:00**\\
-**Understanding VASP Power Profiles on NVIDIA A100 GPUs** [[abstract]](abstract12.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b489/555400b489.pdf) [[presentation]](slides/pres12.pptx)
+**ILAN: The Interference- and Locality-Aware NUMA Scheduler**
 
-Zhengji Zhao, Brian Austin, Ermal Rrapaj, Nicholas Wright\\
-_Lawrence Berkeley National Laboratory, USA_
+Edvin Mellberg, Axel Carlsson, Jing Chen, Miquel Pericas\\
+_Chalmers University of Technology, Sweden_
 
 ---
 {: style="width: 30%;"}
 
 **17:00 - 17:30**\\
-**Workload-adaptive Scheduling for Efficient Use of Parallel File System in High-performance Computing Clusters** [[abstract]](abstract13.html) [[paper]](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400b499/555400b499.pdf) [[presentation]](slides/pres13.pdf)
+**On the Performance and Scalability of Cloud Supercomputers: Insights from Eagle and Reindeer**
 
-Alexander Goponenko, Damian Dechev\\
-_University of Central Florida, USA_
-
-Benjamin Allan, James Brandt\\
-_Sandia National Laboratories, USA_ 
+Amirreza Rastegari, Prabhat Ram, Michael F. Ringenburg\\
+_Microsoft Corporation, USA_
 
 ---
 
