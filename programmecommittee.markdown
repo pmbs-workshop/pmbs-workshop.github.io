@@ -24,7 +24,7 @@ Workshop Technical Programme Committee
 * Stephanie Brink, _Lawrence Livermore National Laboratory, USA_
 * Dominic Brown, _NVIDIA, UK_
 * Pedro Bruel, _HPE, USA_
-* Patrick Carribaut, _CEA, France_
+* Patrick Carribault, _CEA, France_
 * Tom Deakin, _University of Bristol, UK_
 * Aadesh Deshmukh, _AMD (Xilinx, Inc.), USA_
 * Ryusuke Egawa, _Tokyo Denki University, Japan_
