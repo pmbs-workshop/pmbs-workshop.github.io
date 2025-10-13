@@ -1,9 +1,8 @@
 ---
 layout: default
+title: Schedule
 order: 2
 --- 
-
-[//]: title: Schedule
 
 # Schedule
 
