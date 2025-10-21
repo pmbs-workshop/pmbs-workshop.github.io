@@ -2,9 +2,6 @@
 layout: default
 ---
 
-## Session 4: Large Language Model
-### Chair: TBA, _TBA_
-
 **14:00 - 14:30**\\
 **MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models**
 
