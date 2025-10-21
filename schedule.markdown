@@ -8,13 +8,13 @@ order: 2
 
 **09:00 PMBS Introduction and Welcome -- America's Center Convention Complex, St. Louis**
 
-TBA\\
-_TBA_
+Steven A. Wright\\
+_University of York, UK_
 
 ---
 
 ## Session 1: Performance Modeling
-#### Chair: TBA, _TBA_
+#### Chair: Steven A. Wright, _University of York, UK_
 
 **09:00 - 09:30**\\
 **Modelling Load Imbalance In Shared Memory Multicore Systems**
@@ -49,7 +49,7 @@ _NVIDIA Corporation, USA_
 ---
 
 ## Session 2: Accuracy and Fidelity of Applications and Simulators
-### Chair: TBA, _TBA_
+### Chair: Sascha Hunold, _TU Wien, Austria_
 
 **10:30 - 11:00**\\
 **Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration**
@@ -200,7 +200,7 @@ Julius Lehner, Eishi Arima, Martin Schulz\\
 _Technical University of Munich, Germany_
 
 ## Session 6: System Performance and Scheduling
-### Chair: TBA, _TBA_
+### Chair: Lilia Zaourar, _CEA, France_
 
 **16:30 - 17:00**\\
 **ILAN: The Interference- and Locality-Aware NUMA Scheduler**
