@@ -85,7 +85,7 @@ _Cloudflare, USA_
 {: style="width: 30%;"}
 
 ## Session 3: Short Papers
-### Chair: TBA, _TBA_
+### Chair: Murali Emani, _Argonne National Laboratory, USA_
 
 **11:30 - 11:45 Best Short Paper**\\
 **CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** [[abstract]](abstract05.html)
@@ -146,7 +146,7 @@ _University of York, UK_
 ---
 
 ## Session 4: Large Language Model
-### Chair: TBA, _TBA_
+### Chair: Fred Suter, _Oak Ridge National Laboratory, USA_
 
 **14:00 - 14:30**\\
 **MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models** [[abstract]](abstract09.html)
