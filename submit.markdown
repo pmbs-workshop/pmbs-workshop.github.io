@@ -22,8 +22,8 @@ and authors should prepare their papers as such, removing author names and insti
 
 Accepted full papers will be eligible for 2 additional pages, while short papers will be eligible for 1 additional page.
 
-[[Submit a full paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSFullPapersSubmission&site=sc25) &emsp; 
-[[Submit a short paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSShortPapersSubmission&site=sc25)
+[~~[Submit a full paper]~~]() &emsp; 
+[~~[Submit a short paper]~~]()
 {: style="text-align: center;"}
 
 SC Transparency and Reproducibility Initiative

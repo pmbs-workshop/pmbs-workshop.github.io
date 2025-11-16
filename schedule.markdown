@@ -176,7 +176,7 @@ _Qualcomm, USA_
 ---
 
 ## Session 5: Graphics Processing Units
-### Chair: TBA, _TBA_
+#### Chair: Steven A. Wright, _University of York, UK_
 
 **15:30 - 16:00**\\
 **Characterizing the Impact of GPU Power Management on an Exascale System** [[abstract]](abstract11.html) [[paper]](https://doi.org/10.1145/3731599.3767702)
