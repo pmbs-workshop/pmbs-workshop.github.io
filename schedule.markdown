@@ -17,7 +17,7 @@ _University of York, UK_
 #### Chair: Steven A. Wright, _University of York, UK_
 
 **09:00 - 09:30**\\
-**Modelling Load Imbalance In Shared Memory Multicore Systems** [[abstract]](abstract01.html)
+**Modelling Load Imbalance In Shared Memory Multicore Systems** [[abstract]](abstract01.html) [[paper]](https://doi.org/10.1145/3731599.3767707)
 
 Johannes Langguth\\
 _Simula Research Laboratory, Norway_\\
@@ -34,7 +34,7 @@ _Simula Research Laboratory, Norway_
 {: style="width: 30%;"}
 
 **09:30 - 10:00**\\
-**A Peak Performance Model for All-to-all on Hierarchical Systems and Its Applications** [[abstract]](abstract02.html)
+**A Peak Performance Model for All-to-all on Hierarchical Systems and Its Applications** [[abstract]](abstract02.html) [[paper]](https://doi.org/10.1145/3731599.3767704)
 
 Rohini Uma-Vaideswaran, Daniel Dotson, P. K. Yeung\\
 _Georgia Institute of Technology, USA_
@@ -52,7 +52,7 @@ _NVIDIA Corporation, USA_
 ### Chair: Sascha Hunold, _TU Wien, Austria_
 
 **10:30 - 11:00**\\
-**Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration** [[abstract]](abstract03.html)
+**Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration** [[abstract]](abstract03.html) [[paper]](https://doi.org/10.1145/3731599.3767698)
 
 Jesse McDonald, Yick-Ching Wong, Henri Casanova\\
 _University of Hawaii at Manoa, USA_
@@ -70,7 +70,7 @@ _University of Southern California, USA_
 {: style="width: 30%;"}
 
 **11:00 - 11:30 Best Paper**\\
-**Beyond Guess and Check: Quantifying the Fidelity of Proxy Applications** [[abstract]](abstract04.html)
+**Beyond Guess and Check: Quantifying the Fidelity of Proxy Applications** [[abstract]](abstract04.html) [[paper]](https://doi.org/10.1145/3731599.3767700)
 
 Si Chen\\
 _Emory University, USA_
@@ -88,7 +88,7 @@ _Cloudflare, USA_
 ### Chair: Murali Emani, _Argonne National Laboratory, USA_
 
 **11:30 - 11:45 Best Short Paper**\\
-**CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** [[abstract]](abstract05.html)
+**CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** [[abstract]](abstract05.html) [[paper]](https://doi.org/10.1145/3731599.3769277)
 
 Sairam Sri Vatsavai, Kuan-Chieh Hsu, Ozgur Kilic, Yihui (Ray) Ren, David Park, Paul Nilsson, Sankha Dutta, Tasnuva Chowdhury, Adolfy Hoisie, Tadashi Maeno, Shinjae Yoo, Alexei Klimentov\\
 _Brookhaven National Laboratory, USA_
@@ -112,7 +112,7 @@ _SLAC National Accelerator Laboratory, USA_
 {: style="width: 30%;"}
 
 **11:45 - 12:00**\\
-**PerfAnalyzer: Revealing Performance Trends using Version Oriented Visual Analysis of Scientific Software** [[abstract]](abstract06.html)
+**PerfAnalyzer: Revealing Performance Trends using Version Oriented Visual Analysis of Scientific Software** [[abstract]](abstract06.html) [[paper]](https://doi.org/10.1145/3731599.3769279)
 
 Kunal Pai, Mahyar Samani, Anusheel Nand, Jason Lowe-Power\\
 _University of California, Davis, USA_
@@ -121,7 +121,7 @@ _University of California, Davis, USA_
 {: style="width: 30%;"}
 
 **12:00 - 12:15**\\
-**Implications of Full-System Modeling for Superconducting Architectures** [[abstract]](abstract07.html)
+**Implications of Full-System Modeling for Superconducting Architectures** [[abstract]](abstract07.html) [[paper]](https://doi.org/10.1145/3731599.3769278)
 
 Sayef Azad Sakin\\
 _University of Utah, USA_\\
@@ -134,7 +134,7 @@ _Los Alamos National Laboratory, USA_
 {: style="width: 30%;"}
 
 **12:15 - 12:30**\\
-**Experiences of Porting Structured and Unstructured Stencil Applications to FPGA using SYCL** [[abstract]](abstract08.html)
+**Experiences of Porting Structured and Unstructured Stencil Applications to FPGA using SYCL** [[abstract]](abstract08.html) [[paper]](https://doi.org/10.1145/3731599.3769276)
 
 Zadok Storkey, Steven A. Wright, Ian Gray\\
 _University of York, UK_
@@ -149,7 +149,7 @@ _University of York, UK_
 ### Chair: Fred Suter, _Oak Ridge National Laboratory, USA_
 
 **14:00 - 14:30**\\
-**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models** [[abstract]](abstract09.html)
+**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models** [[abstract]](abstract09.html) [[paper]](https://doi.org/10.1145/3731599.3767706)
 
 Krishna Teja Chitty-Venkata, Murali Emani, Venkatram Vishwanath\\
 _Argonne National Laboratory, USA_
@@ -164,7 +164,7 @@ _Pacific Northwest National Laboratory, USA_
 {: style="width: 30%;"}
 
 **14:30 - 15:00**\\
-**Pretraining LLMs at Scale: Tuning Strategies and Performance Portability** [[abstract]](abstract10.html)
+**Pretraining LLMs at Scale: Tuning Strategies and Performance Portability** [[abstract]](abstract10.html) [[paper]](https://doi.org/10.1145/3731599.3767699)
 
 Adrián Pérez Diéguez, Àlex Batlle Casellas, Aleix Torres-Camps, Harris Teague,  Jordi Ros-Giralt\\
 _Qualcomm, USA_
@@ -179,7 +179,7 @@ _Qualcomm, USA_
 ### Chair: TBA, _TBA_
 
 **15:30 - 16:00**\\
-**Characterizing the Impact of GPU Power Management on an Exascale System** [[abstract]](abstract11.html)
+**Characterizing the Impact of GPU Power Management on an Exascale System** [[abstract]](abstract11.html) [[paper]](https://doi.org/10.1145/3731599.3767702)
 
 Mariana Costa, Philippe O. A. Navaux, Arthur Lorenzon\\
 _Universidade Federal do Rio Grande do Sul, Brazil_
@@ -194,7 +194,7 @@ _AMD, USA_
 {: style="width: 30%;"}
 
 **16:00 - 16:30**\\
-**A GPU FFT Wrapper to Co-optimize Floating-Point Precision and Library Selection via Predictive Error Modeling** [[abstract]](abstract12.html)
+**A GPU FFT Wrapper to Co-optimize Floating-Point Precision and Library Selection via Predictive Error Modeling** [[abstract]](abstract12.html) [[paper]](https://doi.org/10.1145/3731599.3767703)
 
 Julius Lehner, Eishi Arima, Martin Schulz\\
 _Technical University of Munich, Germany_
@@ -203,7 +203,7 @@ _Technical University of Munich, Germany_
 ### Chair: Lilia Zaourar, _CEA, France_
 
 **16:30 - 17:00**\\
-**ILAN: The Interference- and Locality-Aware NUMA Scheduler** [[abstract]](abstract13.html)
+**ILAN: The Interference- and Locality-Aware NUMA Scheduler** [[abstract]](abstract13.html) [[paper]](https://doi.org/10.1145/3731599.3767701)
 
 Edvin Mellberg, Axel Carlsson, Jing Chen, Miquel Pericas\\
 _Chalmers University of Technology, Sweden_
@@ -212,7 +212,7 @@ _Chalmers University of Technology, Sweden_
 {: style="width: 30%;"}
 
 **17:00 - 17:30**\\
-**On the Performance and Scalability of Cloud Supercomputers: Insights from Eagle and Reindeer** [[abstract]](abstract14.html)
+**On the Performance and Scalability of Cloud Supercomputers: Insights from Eagle and Reindeer** [[abstract]](abstract14.html) [[paper]](https://doi.org/10.1145/3731599.3767705)
 
 Amirreza Rastegari, Prabhat Ram, Michael F. Ringenburg\\
 _Microsoft Corporation, USA_

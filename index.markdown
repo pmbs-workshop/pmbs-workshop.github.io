@@ -7,7 +7,7 @@ order: 1
 [//]: {% include important.html content="The PMBS Workshop will be held on Monday 18th November in B303 of The Georgia World Congress Center, Atlanta. The digital experience will be available [here](https://sc24.conference-program.com/session/?sess=sess748)." %}
 
 
-{% include important.html content="Full Paper Submission Deadline Extended: August 13th 2025 (23:59 AoE)" %}
+[//]: {% include important.html content="Full Paper Submission Deadline Extended: August 13th 2025 (23:59 AoE)" %}
 
 Welcome
 =======
@@ -55,12 +55,12 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* August ~~6th~~ **13th** 2025 (23:59 AoE) - Full Paper Submissions
-* September 3rd 2025 (23:59 AoE) - Late Breaking and Short Paper Submissions
-* September 12th 2025 - Full Paper Notifications
-* September 19th 2025 - Late Breaking and Short Paper Notifications
-* September 26th 2025 - Camera Ready Papers Due
-* **November 2025 - PMBS25 Workshop**
+* ~~August 6th **13th** 2025 (23:59 AoE)~~ - Full Paper Submissions
+* ~~September 3rd 2025 (23:59 AoE)~~ - Late Breaking and Short Paper Submissions
+* ~~September 12th 2025~~ - Full Paper Notifications
+* ~~September 19th 2025~~ - Late Breaking and Short Paper Notifications
+* ~~September 26th 2025~~ - Camera Ready Papers Due
+* **November 17th 2025 - PMBS25 Workshop**
 
 
 Previous Workshops
