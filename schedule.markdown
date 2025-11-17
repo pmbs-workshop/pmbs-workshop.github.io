@@ -134,7 +134,7 @@ _Los Alamos National Laboratory, USA_
 {: style="width: 30%;"}
 
 **12:15 - 12:30**\\
-**Experiences of Porting Structured and Unstructured Stencil Applications to FPGA using SYCL** [[abstract]](abstract08.html) [[paper]](https://doi.org/10.1145/3731599.3769276)
+**Experiences of Porting Structured and Unstructured Stencil Applications to FPGA using SYCL** [[abstract]](abstract08.html) [[paper]](https://doi.org/10.1145/3731599.3769276) [[slides]](talk08.pdf)
 
 Zadok Storkey, Steven A. Wright, Ian Gray\\
 _University of York, UK_
