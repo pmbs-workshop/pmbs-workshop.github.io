@@ -5,12 +5,8 @@ layout: default
 **11:45 - 12:00**\\
 **Implications of Full-System Modeling for Superconducting Architectures**
 
-Sayef Azad Sakin\\
-_University of Utah, USA_\\
-_Los Alamos National Laboratory, USA_
-
-James Ahrens\\
-_Los Alamos National Laboratory, USA_
+Kunal Pai, Mahyar Samani, Anusheel Nand, Jason Lowe-Power\\
+_University of California, Davis, USA_
 
 _As Moore's Law slows, superconducting electronics offer ultra-low-power, high-speed computation potential. This paper presents the first full-system superconducting architecture modeling in gem5, evaluating superconducting cores, caches, and interconnects under realistic workloads. We extend gem5 with cryogenic semiconductor (4 GHz) and superconducting (100 GHz) RISC-V cores and multi-level caches, evaluating RISC-V benchmarks and SPEC CPU2006 applications. We also integrate SRNoC, a superconducting interconnect, with the NOVA graph accelerator._
 

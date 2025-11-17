@@ -114,12 +114,8 @@ _SLAC National Accelerator Laboratory, USA_
 **11:45 - 12:00**\\
 **Implications of Full-System Modeling for Superconducting Architectures** [[abstract]](abstract06.html) [[paper]](https://doi.org/10.1145/3731599.3769278)
 
-Sayef Azad Sakin\\
-_University of Utah, USA_\\
-_Los Alamos National Laboratory, USA_
-
-James Ahrens\\
-_Los Alamos National Laboratory, USA_
+Kunal Pai, Mahyar Samani, Anusheel Nand, Jason Lowe-Power\\
+_University of California, Davis, USA_
 
 ---
 {: style="width: 30%;"}
@@ -127,9 +123,12 @@ _Los Alamos National Laboratory, USA_
 **12:00 - 12:15**\\
 **PerfAnalyzer: Revealing Performance Trends using Version Oriented Visual Analysis of Scientific Software** [[abstract]](abstract07.html) [[paper]](https://doi.org/10.1145/3731599.3769279)
 
-Kunal Pai, Mahyar Samani, Anusheel Nand, Jason Lowe-Power\\
-_University of California, Davis, USA_
+Sayef Azad Sakin\\
+_University of Utah, USA_\\
+_Los Alamos National Laboratory, USA_
 
+James Ahrens\\
+_Los Alamos National Laboratory, USA_
 
 ---
 {: style="width: 30%;"}
