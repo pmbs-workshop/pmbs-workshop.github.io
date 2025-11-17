@@ -149,7 +149,7 @@ _University of York, UK_
 ### Chair: Fred Suter, _Oak Ridge National Laboratory, USA_
 
 **14:00 - 14:30**\\
-**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models** [[abstract]](abstract09.html) [[paper]](https://doi.org/10.1145/3731599.3767706)
+**MoE-Inference-Bench: Performance Evaluation of Mixture of Expert Large Language and Vision Models** [[abstract]](abstract09.html) [[paper]](https://doi.org/10.1145/3731599.3767706) [[slides]](talk09.pdf)
 
 Krishna Teja Chitty-Venkata, Murali Emani, Venkatram Vishwanath\\
 _Argonne National Laboratory, USA_
