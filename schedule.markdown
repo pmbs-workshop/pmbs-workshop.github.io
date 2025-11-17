@@ -112,7 +112,7 @@ _SLAC National Accelerator Laboratory, USA_
 {: style="width: 30%;"}
 
 **11:45 - 12:00**\\
-**Implications of Full-System Modeling for Superconducting Architectures** [[abstract]](abstract06.html) [[paper]](https://doi.org/10.1145/3731599.3769278)
+**Implications of Full-System Modeling for Superconducting Architectures** [[abstract]](abstract06.html) [[paper]](https://doi.org/10.1145/3731599.3769278) [[slides]](talk06.pdf)
 
 Kunal Pai, Mahyar Samani, Anusheel Nand, Jason Lowe-Power\\
 _University of California, Davis, USA_
@@ -164,7 +164,7 @@ _Pacific Northwest National Laboratory, USA_
 {: style="width: 30%;"}
 
 **14:30 - 15:00**\\
-**Pretraining LLMs at Scale: Tuning Strategies and Performance Portability** [[abstract]](abstract10.html) [[paper]](https://doi.org/10.1145/3731599.3767699)
+**Pretraining LLMs at Scale: Tuning Strategies and Performance Portability** [[abstract]](abstract10.html) [[paper]](https://doi.org/10.1145/3731599.3767699) [[slides]](talk10.pdf)
 
 Adrián Pérez Diéguez, Àlex Batlle Casellas, Aleix Torres-Camps, Harris Teague,  Jordi Ros-Giralt\\
 _Qualcomm, USA_
