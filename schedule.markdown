@@ -17,7 +17,7 @@ _University of York, UK_
 #### Chair: Steven A. Wright, _University of York, UK_
 
 **09:00 - 09:30**\\
-**Modelling Load Imbalance In Shared Memory Multicore Systems** [[abstract]](abstract01.html) [[paper]](https://doi.org/10.1145/3731599.3767707)
+**Modelling Load Imbalance In Shared Memory Multicore Systems** [[abstract]](abstract01.html) [[paper]](https://doi.org/10.1145/3731599.3767707) [[slides]](talk01.pdf)
 
 Johannes Langguth\\
 _Simula Research Laboratory, Norway_\\
@@ -34,7 +34,7 @@ _Simula Research Laboratory, Norway_
 {: style="width: 30%;"}
 
 **09:30 - 10:00**\\
-**A Peak Performance Model for All-to-all on Hierarchical Systems and Its Applications** [[abstract]](abstract02.html) [[paper]](https://doi.org/10.1145/3731599.3767704)
+**A Peak Performance Model for All-to-all on Hierarchical Systems and Its Applications** [[abstract]](abstract02.html) [[paper]](https://doi.org/10.1145/3731599.3767704) [[slides]](talk02.pdf)
 
 Rohini Uma-Vaideswaran, Daniel Dotson, P. K. Yeung\\
 _Georgia Institute of Technology, USA_
