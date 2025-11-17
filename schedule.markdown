@@ -52,7 +52,7 @@ _NVIDIA Corporation, USA_
 ### Chair: Sascha Hunold, _TU Wien, Austria_
 
 **10:30 - 11:00**\\
-**Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration** [[abstract]](abstract03.html) [[paper]](https://doi.org/10.1145/3731599.3767698)
+**Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration** [[abstract]](abstract03.html) [[paper]](https://doi.org/10.1145/3731599.3767698) [[slides]](talk03.pdf)
 
 Jesse McDonald, Yick-Ching Wong, Henri Casanova\\
 _University of Hawaii at Manoa, USA_
@@ -70,7 +70,7 @@ _University of Southern California, USA_
 {: style="width: 30%;"}
 
 **11:00 - 11:30 Best Paper**\\
-**Beyond Guess and Check: Quantifying the Fidelity of Proxy Applications** [[abstract]](abstract04.html) [[paper]](https://doi.org/10.1145/3731599.3767700)
+**Beyond Guess and Check: Quantifying the Fidelity of Proxy Applications** [[abstract]](abstract04.html) [[paper]](https://doi.org/10.1145/3731599.3767700) [[slides]](talk04.pdf)
 
 Si Chen\\
 _Emory University, USA_
