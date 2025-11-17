@@ -121,7 +121,7 @@ _University of California, Davis, USA_
 {: style="width: 30%;"}
 
 **12:00 - 12:15**\\
-**PerfAnalyzer: Revealing Performance Trends using Version Oriented Visual Analysis of Scientific Software** [[abstract]](abstract07.html) [[paper]](https://doi.org/10.1145/3731599.3769279)
+**PerfAnalyzer: Revealing Performance Trends using Version Oriented Visual Analysis of Scientific Software** [[abstract]](abstract07.html) [[paper]](https://doi.org/10.1145/3731599.3769279) [[slides]](https://www-users.york.ac.uk/~saw586/pmbs/talk07.pptx)
 
 Sayef Azad Sakin\\
 _University of Utah, USA_\\
