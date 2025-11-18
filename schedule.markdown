@@ -88,7 +88,7 @@ _Cloudflare, USA_
 ### Chair: Murali Emani, _Argonne National Laboratory, USA_
 
 **11:30 - 11:45 Best Short Paper**\\
-**CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** [[abstract]](abstract05.html) [[paper]](https://doi.org/10.1145/3731599.3769277)
+**CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** [[abstract]](abstract05.html) [[paper]](https://doi.org/10.1145/3731599.3769277) [[slides]](talk05.pptx)
 
 Sairam Sri Vatsavai, Kuan-Chieh Hsu, Ozgur Kilic, Yihui (Ray) Ren, David Park, Paul Nilsson, Sankha Dutta, Tasnuva Chowdhury, Adolfy Hoisie, Tadashi Maeno, Shinjae Yoo, Alexei Klimentov\\
 _Brookhaven National Laboratory, USA_
@@ -212,7 +212,7 @@ _Chalmers University of Technology, Sweden_
 {: style="width: 30%;"}
 
 **17:00 - 17:30**\\
-**On the Performance and Scalability of Cloud Supercomputers: Insights from Eagle and Reindeer** [[abstract]](abstract14.html) [[paper]](https://doi.org/10.1145/3731599.3767705)
+**On the Performance and Scalability of Cloud Supercomputers: Insights from Eagle and Reindeer** [[abstract]](abstract14.html) [[paper]](https://doi.org/10.1145/3731599.3767705) [[slides]](talk14.pdf)
 
 Amirreza Rastegari, Prabhat Ram, Michael F. Ringenburg\\
 _Microsoft Corporation, USA_
