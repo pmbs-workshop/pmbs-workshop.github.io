@@ -179,7 +179,7 @@ _Qualcomm, USA_
 #### Chair: Steven A. Wright, _University of York, UK_
 
 **15:30 - 16:00**\\
-**Characterizing the Impact of GPU Power Management on an Exascale System** [[abstract]](abstract11.html) [[paper]](https://doi.org/10.1145/3731599.3767702)
+**Characterizing the Impact of GPU Power Management on an Exascale System** [[abstract]](abstract11.html) [[paper]](https://doi.org/10.1145/3731599.3767702) [[slides]](talk11.pdf)
 
 Mariana Costa, Philippe O. A. Navaux, Arthur Lorenzon\\
 _Universidade Federal do Rio Grande do Sul, Brazil_
