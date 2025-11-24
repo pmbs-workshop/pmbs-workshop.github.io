@@ -194,7 +194,7 @@ _AMD, USA_
 {: style="width: 30%;"}
 
 **16:00 - 16:30**\\
-**A GPU FFT Wrapper to Co-optimize Floating-Point Precision and Library Selection via Predictive Error Modeling** [[abstract]](abstract12.html) [[paper]](https://doi.org/10.1145/3731599.3767703)
+**A GPU FFT Wrapper to Co-optimize Floating-Point Precision and Library Selection via Predictive Error Modeling** [[abstract]](abstract12.html) [[paper]](https://doi.org/10.1145/3731599.3767703) [[slides]](talk12.pptx)
 
 Julius Lehner, Eishi Arima, Martin Schulz\\
 _Technical University of Munich, Germany_
