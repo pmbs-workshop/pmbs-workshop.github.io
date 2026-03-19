@@ -12,7 +12,7 @@ order: 1
 Welcome
 =======
 
-The PMBS25 workshop is concerned with the comparison of high-performance computer systems through 
+The PMBS26 workshop is concerned with the comparison of high-performance computer systems through 
 performance modeling, benchmarking or through the use of tools such as simulators.
 
 We are particularly interested in research which reports the ability to measure and make trade-offs 
@@ -55,17 +55,18 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* ~~August 6th **13th** 2025 (23:59 AoE)~~ - Full Paper Submissions
-* ~~September 3rd 2025 (23:59 AoE)~~ - Late Breaking and Short Paper Submissions
-* ~~September 12th 2025~~ - Full Paper Notifications
-* ~~September 19th 2025~~ - Late Breaking and Short Paper Notifications
-* ~~September 26th 2025~~ - Camera Ready Papers Due
-* **November 17th 2025 - PMBS25 Workshop**
+* August 5th 2026 (23:59 AoE) - Full Paper Submissions
+* August 26rd 2026 (23:59 AoE) - Late Breaking and Short Paper Submissions
+* September 2nd 2026 - Full Paper Notifications
+* September 9th 2026 - Late Breaking and Short Paper Notifications
+* September 25th 2026 - Camera Ready Papers Due
+* **November 2026 - PMBS26 Workshop**
 
 
 Previous Workshops
 ------------------
 
+PMBS25 [[Website]](past-workshops/pmbs25/) [[Proceedings]](https://dl.acm.org/doi/proceedings/10.1145/3731599) (St. Louis, MO)  
 PMBS24 [[Website]](past-workshops/pmbs24/) [[Proceedings]](https://dl.acm.org/doi/proceedings/10.5555/3715674#heading29) (Atlanta, GA)  
 PMBS23 [[Website]](past-workshops/pmbs23/) [[Proceedings]](https://dl.acm.org/doi/proceedings/10.1145/3624062#heading27) (Denver, CO)  
 PMBS22 [[Website]](past-workshops/pmbs22/) [[Proceedings]](https://ieeexplore.ieee.org/xpl/conhome/10024010/proceeding) (Dallas, TX)  
@@ -85,6 +86,7 @@ PMBS10 [[Website]](past-workshops/pmbs10/) [[Proceedings]](http://dl.acm.org/cit
 PMBS Special Issues
 -------------------
 
+[Parallel Computing](https://www.sciencedirect.com/journal/parallel-computing)
 [Concurrent and Computation: Practice and Experience, Volume 34, Issue 20](https://onlinelibrary.wiley.com/doi/10.1002/cpe.7165)  
 [Future Generation Computer Systems, Volume 92](https://www.sciencedirect.com/journal/future-generation-computer-systems/vol/92/suppl/C?page=1)  
 [The Computer Journal, Volume 57, Issue 7](https://academic.oup.com/comjnl/issue/57/7)  

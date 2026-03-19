@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Submit Paper
 order: 5
 ---
 
@@ -22,8 +21,8 @@ and authors should prepare their papers as such, removing author names and insti
 
 Accepted full papers will be eligible for 2 additional pages, while short papers will be eligible for 1 additional page.
 
-[~~[Submit a full paper]~~]() &emsp; 
-[~~[Submit a short paper]~~]()
+[[Submit a full paper]]() &emsp; 
+[[Submit a short paper]]()
 {: style="text-align: center;"}
 
 SC Transparency and Reproducibility Initiative
