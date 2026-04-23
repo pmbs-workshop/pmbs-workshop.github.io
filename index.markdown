@@ -86,7 +86,7 @@ PMBS10 [[Website]](past-workshops/pmbs10/) [[Proceedings]](http://dl.acm.org/cit
 PMBS Special Issues
 -------------------
 
-[Parallel Computing](https://www.sciencedirect.com/journal/parallel-computing)  
+[Parallel Computing](https://www.sciencedirect.com/special-issue/102BBCQPR0Q)  
 [Concurrent and Computation: Practice and Experience, Volume 34, Issue 20](https://onlinelibrary.wiley.com/doi/10.1002/cpe.7165)  
 [Future Generation Computer Systems, Volume 92](https://www.sciencedirect.com/journal/future-generation-computer-systems/vol/92/suppl/C?page=1)  
 [The Computer Journal, Volume 57, Issue 7](https://academic.oup.com/comjnl/issue/57/7)  
