@@ -7,13 +7,13 @@ order: 5
 Submit A Paper
 ==============
 
-Authors are invited to submit full papers with unpublished, original work. Submissions are limited to 8 pages 
-using 10pt fonts in the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates). 
+
+Authors are invited to submit full papers with unpublished, original work. **Full paper submissions** are **limited to 8 pages** using 10pt fonts in the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates). 
 The 8-page limit includes figures and tables, but does not include appendices and references.
 Reproducibility Initiative appendices (AE/AD appendices) are also exempt of the 8-page limit.
 
 A separate Late-Breaking Research and Preliminary Techniques stream is also available for authors to submit 
-4-page short papers, not including appendices or references, describing initial research or early first-of-a-kind results.
+4-page **short papers**, not including appendices or references, describing initial research or early first-of-a-kind results.
 **The 4-page limit for short papers is both a minimum and maximum.**
 
 Initial submissions should be made using the links below. The review process will be [**double anonymous**](https://sc26.supercomputing.org/papers/#dar),
@@ -24,6 +24,13 @@ Accepted full papers will be eligible for 2 additional pages, while short papers
 [[Submit a full paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSFullPapersSubmission&site=sc26) &emsp; 
 [[Submit a short paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSShortPapersSubmission&site=sc26)
 {: style="text-align: center;"}
+
+Best Student Paper
+------------------
+
+In the submission system ([submissions.supercomputing.org](https://submissions.supercomputing.org/)), authors may indicate that their paper is eligible for the Best Student Paper.
+To be eligible, the first author must be a student at the time of submission.
+The first-place student paper will receive a complimentary SC26 workshop registration.
 
 SC Reproducibility Initiative
 -----------------------------
