@@ -46,7 +46,7 @@ We encourage submissions in the following areas:
 
 Work which examines similar topics will also be considered.
 
-Information on how to submit a paper including correct formatting, page length etc can be found [here](submit.html).
+Submission details, including formatting requirements and page limits, are available on the [submission page](submit.html).
 
 [//]: {% include note.html content="Following this years workshop, selected authors from the 2019 and 2020 workshops will be 
 [//]: invited to submit extended versions of their papers to a special issue of 
@@ -55,12 +55,12 @@ Information on how to submit a paper including correct formatting, page length e
 Important Workshop Dates
 ------------------------
 
-* August 5th 2026 (23:59 AoE) - Full Paper Submissions
-* August 26rd 2026 (23:59 AoE) - Late Breaking and Short Paper Submissions
-* September 2nd 2026 - Full Paper Notifications
-* September 9th 2026 - Late Breaking and Short Paper Notifications
-* September 25th 2026 - Camera Ready Papers Due
-* **November 2026 - PMBS26 Workshop**
+* August 5 2026 (23:59 AoE) - Full Paper Submissions
+* August 26 2026 (23:59 AoE) - Late Breaking and Short Paper Submissions
+* September 2 2026 - Full Paper Notifications
+* September 9 2026 - Late Breaking and Short Paper Notifications
+* September 25 2026 - Camera Ready Papers Due
+* **November 15 2026 - PMBS26 Workshop**
 
 
 Previous Workshops

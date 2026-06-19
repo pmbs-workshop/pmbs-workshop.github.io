@@ -10,10 +10,11 @@ Submit A Paper
 Authors are invited to submit full papers with unpublished, original work. Submissions are limited to 8 pages 
 using 10pt fonts in the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates). 
 The 8-page limit includes figures and tables, but does not include appendices and references.
-Reproducibility initiative dependencies (Artifact Description or Computational Results Analysis) are also exempt of the 8-page limit.
+Reproducibility Initiative appendices (AE/AD appendices) are also exempt of the 8-page limit.
 
 A separate Late-Breaking Research and Preliminary Techniques stream is also available for authors to submit 
-4-page papers, not including appendices or references, describing initial research or early first-of-a-kind results.
+4-page short papers, not including appendices or references, describing initial research or early first-of-a-kind results.
+**The 4-page limit for short papers is both a minimum and maximum.**
 
 Initial submissions should be made using the links below. The review process will be [**double anonymous**](https://sc26.supercomputing.org/papers/#dar),
 and authors should prepare their papers as such, removing author names and institutes; failure to do so will result in the paper being rejected without review.
@@ -24,17 +25,17 @@ Accepted full papers will be eligible for 2 additional pages, while short papers
 [[Submit a short paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSShortPapersSubmission&site=sc26)
 {: style="text-align: center;"}
 
-SC Transparency and Reproducibility Initiative
-----------------------------------------------
+SC Reproducibility Initiative
+-----------------------------
 
-In line with the main Supercomputing conference, authors are asked to provide an artifact description and an artifact evaluation
+In line with the SC conference, authors are asked to provide an artifact description and an artifact evaluation
 appendix along with their paper, describing the details of their software environments and computational experiments to the 
 extent that an independent person could replicate their results. 
-The AD/AE appendix should **not** be submitted for review, but should be included in subsequent submissions _after_ acceptance.
+The **AD/AE appendix** should **not be submitted for review**, but should be **included** in subsequent submissions **after acceptance**.
 
-More information on the reproducibility initiative can be found [here](https://sc26.supercomputing.org/reproducibility-initiative).
+More information on the [SC26 Reproducibility Initiative](https://sc26.supercomputing.org/reproducibility-initiative) is available on the SC26 website.
 
-A template for the AD/AE appendix can be found [here](https://github.com/hunsa/sc24-repro/blob/main/for-paper-authors/sc24_ad_ae_template.pdf)
+A [template for the AD/AE appendix](https://github.com/jennfshr/sc26-repro/tree/main/for-paper-authors) is available on GitHub.
 
 [//]: Journal Special Issue
 [//]: ---------------------
