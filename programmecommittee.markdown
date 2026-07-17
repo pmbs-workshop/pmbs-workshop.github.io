@@ -23,6 +23,7 @@ Workshop Technical Programme Committee
 * Mauricio Araya-Polo, _TotalEnergies, USA_
 * Dominic Brown, _NVIDIA Corporation, UK_
 * Pedro Bruel, _HPE, USA_
+* Daniele De Sensi, _Sapienza University of Rome, Italy_
 * Ryusuke Egawa, _Tokyo Denki University, Tohoku University, Japan_
 * Danielle A. Ellsworth, _Colorado College, USA_
 * Jiří Filipovič, _Masaryk University, Czech Republic_
