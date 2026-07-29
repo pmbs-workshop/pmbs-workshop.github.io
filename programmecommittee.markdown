@@ -23,6 +23,7 @@ Workshop Technical Programme Committee
 * Mauricio Araya-Polo, _TotalEnergies, USA_
 * Dominic Brown, _NVIDIA Corporation, UK_
 * Pedro Bruel, _HPE, USA_
+* Camille Coti, _École de Technologie Supérieure, Canada_
 * Daniele De Sensi, _Sapienza University of Rome, Italy_
 * Ryusuke Egawa, _Tokyo Denki University, Tohoku University, Japan_
 * Danielle A. Ellsworth, _Colorado College, USA_
@@ -30,21 +31,27 @@ Workshop Technical Programme Committee
 * Paddy Gillies, _European Centre for Medium-Range Weather Forecasts, UK_
 * Ruben Gran Tejero, _University of Zaragoza, Spain_
 * Jeff R. Hammond, _NVIDIA Corporation, Finland_
+* Andreas Herten, _Jülich Supercomputing Centre (JSC), Germany_
 * Nikhil Jain, _NVIDIA Corporation, USA_
 * Ana Jokanović, _Hokus Platform, Spain_
 * Michael Klemm, _Advanced Micro Devices, Inc. (AMD); OpenMP Architecture Review Board, Germany_
+* Ruben Laso, _University of Vienna, Austria_
 * Kewen Meng, _Advanced Micro Devices, Inc. (AMD), USA_
 * Gihan Mudalige, _University of Warwick, UK_
 * Naohito Nakasato, _University of Aizu, Japan_
+* Daniel Nichols, _Lawrence Livermore National Laboratory, USA_
 * Miquel Pericas, _Chalmers University of Technology, Sweden_
 * Dirk Pleiter, _University of Groningen, KTH Royal Institute of Technology, Netherlands_
+* Jonas Posner, _Fulda University of Applied Sciences, Germany_
 * Ari Rasch, _University of Münster, Germany_
 * Istvan Z. Reguly, _Pázmány Péter Catholic University, Hungary_
 * Andrey Semin, _Apple Inc., Germany_
 * S.-Kazem Shekofteh, _Heidelberg University, Germany_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * Luan Teylo, _French Institute for Research in Computer Science and Automation (INRIA), France_
-* James Trotter, _Simula, Norway_
+* Peter Thoman, _University of Innsbruck, Austria_
+* James D. Trotter, _Simula, Norway_
+* Didem Unat, _Koç University, Turkey_
 * Alejandro Valero, _Universidad de Zaragoza, Spain_
 * Ben van Werkhoven, _Leiden University, Netherlands eScience Center, Netherlands_
 * Lilia Zaourar, _French Alternative Energies and Atomic Energy Commission (CEA), France_

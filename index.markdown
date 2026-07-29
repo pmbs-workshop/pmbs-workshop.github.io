@@ -55,9 +55,9 @@ Submission details, including formatting requirements and page limits, are avail
 Important Workshop Dates
 ------------------------
 
-* August 5 2026 (23:59 AoE) - Full Paper Submissions
+* **August 9 2026 (23:59 AoE) extended firm deadline - Full Paper Submissions**
 * August 26 2026 (23:59 AoE) - Late Breaking and Short Paper Submissions
-* September 2 2026 - Full Paper Notifications
+* September 4 2026 - Full Paper Notifications
 * September 9 2026 - Late Breaking and Short Paper Notifications
 * September 25 2026 - Camera Ready Papers Due
 * **November 15 2026 - PMBS26 Workshop**
