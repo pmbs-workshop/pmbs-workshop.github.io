@@ -8,10 +8,11 @@ locale:       "en"
 encoding:     utf-8
 
 # About/contact
-author:
-  name:       Steven Wright
-  url:        https://cs.york.ac.uk/~saw 
-
+authors:
+  - name:     Steven Wright
+    url:      https://cs.york.ac.uk/~saw
+  - name:     Sascha Hunold
+    url:      https://informatics.tuwien.ac.at/people/sascha-hunold
 # Gems
 gems: []
 

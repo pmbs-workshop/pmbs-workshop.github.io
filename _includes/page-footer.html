@@ -1,3 +1,3 @@
 <footer class="site-footer">
-  <span class="site-footer-owner">The <a href="{{ site.url }}">{{ site.acronym }}</a> site is maintained by <a href="{{ site.author.url }}">{{ site.author.name }}</a>.</span>
+  <span class="site-footer-owner">The <a href="{{ site.url }}">{{ site.acronym }}</a> site is maintained by {% for author in site.authors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}<a href="{{ author.url }}">{{ author.name }}</a>{% endfor %}.</span>
 </footer>
