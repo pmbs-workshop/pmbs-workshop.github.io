@@ -23,6 +23,8 @@ Workshop Technical Programme Committee
 * Mauricio Araya-Polo, _TotalEnergies, USA_
 * Dominic Brown, _NVIDIA Corporation, UK_
 * Pedro Bruel, _HPE, USA_
+* Fabien Chaix, _FORTH-ICS, Greece_
+* Xinye Chen, _Sorbonne University, LIP6, CNRS, France_
 * Camille Coti, _École de Technologie Supérieure, Canada_
 * Daniele De Sensi, _Sapienza University of Rome, Italy_
 * Ryusuke Egawa, _Tokyo Denki University, Tohoku University, Japan_
@@ -43,6 +45,7 @@ Workshop Technical Programme Committee
 * Miquel Pericas, _Chalmers University of Technology, Sweden_
 * Dirk Pleiter, _University of Groningen, KTH Royal Institute of Technology, Netherlands_
 * Jonas Posner, _Fulda University of Applied Sciences, Germany_
+* Amir Raoofy, _Leibniz Supercomputing Centre (LRZ), Technical University of Munich, Germany_
 * Ari Rasch, _University of Münster, Germany_
 * Istvan Z. Reguly, _Pázmány Péter Catholic University, Hungary_
 * Andrey Semin, _Apple Inc., Germany_
