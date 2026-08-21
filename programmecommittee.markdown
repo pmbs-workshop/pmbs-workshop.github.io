@@ -21,6 +21,8 @@ Workshop Technical Programme Committee
 ------------------------------------
 
 * Mauricio Araya-Polo, _TotalEnergies, USA_
+* Brian Austin, _Lawrence Berkeley National Laboratory, USA_
+* Mario Bifulco, _University of Turin, Italy_
 * Dominic Brown, _NVIDIA Corporation, UK_
 * Pedro Bruel, _HPE, USA_
 * Fabien Chaix, _FORTH-ICS, Greece_
@@ -36,8 +38,10 @@ Workshop Technical Programme Committee
 * Andreas Herten, _Jülich Supercomputing Centre (JSC), Germany_
 * Nikhil Jain, _NVIDIA Corporation, USA_
 * Ana Jokanović, _Hokus Platform, Spain_
+* Awais Khan, _Oak Ridge National Laboratory, USA_
 * Michael Klemm, _Advanced Micro Devices, Inc. (AMD); OpenMP Architecture Review Board, Germany_
 * Ruben Laso, _University of Vienna, Austria_
+* Giulio Malenza, _University of Turin, Italy_
 * Kewen Meng, _Advanced Micro Devices, Inc. (AMD), USA_
 * Gihan Mudalige, _University of Warwick, UK_
 * Naohito Nakasato, _University of Aizu, Japan_
@@ -51,11 +55,13 @@ Workshop Technical Programme Committee
 * Andrey Semin, _Apple Inc., Germany_
 * S.-Kazem Shekofteh, _Heidelberg University, Germany_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
+* Ahmad Tarraf, _Technical University of Darmstadt, Germany_
 * Luan Teylo, _French Institute for Research in Computer Science and Automation (INRIA), France_
 * Peter Thoman, _University of Innsbruck, Austria_
 * James D. Trotter, _Simula, Norway_
 * Didem Unat, _Koç University, Turkey_
 * Alejandro Valero, _Universidad de Zaragoza, Spain_
 * Ben van Werkhoven, _Leiden University, Netherlands eScience Center, Netherlands_
+* Xinyao Yi, _University of Virginia, USA_
 * Lilia Zaourar, _French Alternative Energies and Atomic Energy Commission (CEA), France_
 * Zhengji Zhao, _National Energy Scientific Computing Centre, Lawrence Berkeley National Laboratory, USA_
