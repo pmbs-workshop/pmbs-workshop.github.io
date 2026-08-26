@@ -38,7 +38,7 @@ Workshop Technical Programme Committee
 * Andreas Herten, _Jülich Supercomputing Centre (JSC), Germany_
 * Nikhil Jain, _NVIDIA Corporation, USA_
 * Ana Jokanović, _Hokus Platform, Spain_
-* Awais Khan, _Oak Ridge National Laboratory, USA_
+* Awais Khan, _Oak Ridge National Laboratory (ORNL), USA_
 * Michael Klemm, _Advanced Micro Devices, Inc. (AMD); OpenMP Architecture Review Board, Germany_
 * Ruben Laso, _University of Vienna, Austria_
 * Giulio Malenza, _University of Turin, Italy_
@@ -46,6 +46,7 @@ Workshop Technical Programme Committee
 * Gihan Mudalige, _University of Warwick, UK_
 * Naohito Nakasato, _University of Aizu, Japan_
 * Daniel Nichols, _Lawrence Livermore National Laboratory, USA_
+* Suryachandra Prasad Pasupuleti, _University of York, UK_
 * Miquel Pericas, _Chalmers University of Technology, Sweden_
 * Dirk Pleiter, _University of Groningen, KTH Royal Institute of Technology, Netherlands_
 * Jonas Posner, _Fulda University of Applied Sciences, Germany_
@@ -54,6 +55,7 @@ Workshop Technical Programme Committee
 * Istvan Z. Reguly, _Pázmány Péter Catholic University, Hungary_
 * Andrey Semin, _Apple Inc., Germany_
 * S.-Kazem Shekofteh, _Heidelberg University, Germany_
+* Matt Smith, _University of York, UK_
 * Philippe Swartvagher, _INRIA Bordeaux, France_
 * Ahmad Tarraf, _Technical University of Darmstadt, Germany_
 * Luan Teylo, _French Institute for Research in Computer Science and Automation (INRIA), France_
