@@ -25,10 +25,10 @@ Accepted full papers will be eligible for 2 additional pages, while short papers
 [[Submit a short paper]](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopPMBSShortPapersSubmission&site=sc26)
 {: style="text-align: center;"}
 
-Best Student Paper
+Distinguished Student Paper
 ------------------
 
-In the submission system ([submissions.supercomputing.org](https://submissions.supercomputing.org/)), authors may indicate that their paper is eligible for the Best Student Paper.
+In the submission system ([submissions.supercomputing.org](https://submissions.supercomputing.org/)), authors may indicate that their paper is eligible for the Distinguished Student Paper.
 To be eligible, the first author must be a student at the time of submission.
 The first-place student paper will receive a complimentary SC26 workshop registration.
 
