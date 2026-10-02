@@ -21,8 +21,7 @@ _TU Wien, Austria_
 **NVIDIA Vera: A Microarchitecture-Level Comparison with Grace, Turin, and Granite Rapids** <!-- [[abstract]](abstract01.html) [[paper]]() [[slides]]() -->
 
 Joseph Moore, Thomas Green, Simon McIntosh-Smith\\
-_Bristol Centre for Supercomputing_\\
-_University of Bristol, England_
+_Bristol Centre for Supercomputing, University of Bristol, England_
 
 ---
 {: style="width: 30%;"}
@@ -49,8 +48,7 @@ _Sipearl_
 **Repository-Scale Performance Characterization of the IO500 Benchmark** <!-- [[abstract]](abstract03.html) [[paper]]() [[slides]]() -->
 
 Julian Kunkel, Aasish Kumar Sharma, Sepehr Mahmoodianhamedani, Anila Ghazanfar, Sascha Safenreiter\\
-_Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen_\\
-_University of Göttingen, Germany_
+_Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen, University of Göttingen, Germany_
 
 ---
 {: style="width: 30%;"}
@@ -259,8 +257,7 @@ _French Alternative Energies and Atomic Energy Commission (CEA), France_
 **Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications** <!-- [[abstract]](abstract17.html) [[paper]]() [[slides]]() -->
 
 Ayesha Afzal, Georg Hager\\
-_Erlangen National High Performance Computing Center, Germany_\\
-_Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
+_Erlangen National High Performance Computing Center, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
 
 Krishna Manda\\
 _University of Bonn, Germany_
