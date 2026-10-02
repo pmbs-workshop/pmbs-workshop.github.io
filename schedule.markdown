@@ -131,7 +131,7 @@ _Advanced Micro Devices, Inc, United States_
 ---
 
 ## Session 4: Sharing and Operating Production Systems
-#### Chair: TBC <!-- Chair, _Institute, Location_ 00<>
+#### Chair: TBC <!-- Chair, _Institute, Location_ -->
 
 **14:00 - 14:20**\\
 **Benchmarking Physical GCD Placement Effects on Performance, Energy, and Co-Execution** <!-- [[abstract]](abstract10.html) [[paper]]() [[slides]]() -->
@@ -266,7 +266,7 @@ _University of Bonn, Germany_
 {: style="width: 30%;"}
 
 **17:10 - 17:30**\\
-**FHE-STREAM: Characterizing Memory Access Behavior in Fully Homomorphic Encryption Workloads** [[abstract]](abstract18.html) [[paper]]() [[slides]]()
+**FHE-STREAM: Characterizing Memory Access Behavior in Fully Homomorphic Encryption Workloads** <!-- [[abstract]](abstract18.html) [[paper]]() [[slides]]() -->
 
 Ashlesha Malla, Yash Kumar, Michael Beebe, Yong Chen\\
 _Texas Tech University, TX, United States_
