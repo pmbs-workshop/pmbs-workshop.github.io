@@ -5,7 +5,7 @@ title: Schedule
 --- 
 
 <!-- title: Schedule -->
-{% include important.html content="The PMBS Workshop will be held on Sunday, November 15th, 2026 in W181a at McCormick Place, Chicago, IL." %}
+{% include important.html content="The PMBS Workshop will be held on Sunday, November 15th, 2026 in W181a ([West Building floor plan](https://www.mccormickplace.com/floor-plans/west-overview/)) at McCormick Place, Chicago, IL." %}
 
 # Schedule
 
