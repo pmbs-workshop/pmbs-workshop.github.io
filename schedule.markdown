@@ -1,6 +1,7 @@
 ---
 layout: default
 order: 2
+title: Schedule
 --- 
 
 <!-- title: Schedule -->
