@@ -4,10 +4,8 @@ title: Welcome
 order: 1
 ---
 
-[//]: {% include important.html content="The PMBS Workshop will be held on Monday 18th November in B303 of The Georgia World Congress Center, Atlanta. The digital experience will be available [here](https://sc24.conference-program.com/session/?sess=sess748)." %}
+{% include important.html content="The PMBS Workshop will be held on Sunday, November 15th, 2026 in W181a at McCormick Place, Chicago, IL." %}
 
-
-[//]: {% include important.html content="Full Paper Submission Deadline Extended: August 13th 2025 (23:59 AoE)" %}
 
 Welcome
 =======
