@@ -16,7 +16,7 @@ _TU Wien, Austria_
 ---
 
 ## Session 1: CPU Architectures -- Measuring Today's Arm CPUs, Designing Tomorrow's
-#### Chair: TBC <!-- Chair, _Institute, Location_ -->
+#### Chair: Sascha Hunold, _TU Wien, Austria_ <!-- Chair, _Institute, Location_ -->
 
 **09:15 - 09:35**\\
 **NVIDIA Vera: A Microarchitecture-Level Comparison with Grace, Turin, and Granite Rapids** <!-- [[abstract]](abstract01.html) [[paper]]() [[slides]]() -->
@@ -43,7 +43,7 @@ _Sipearl_
 ---
 
 ## Session 2: Short Papers
-#### Chair: TBC <!-- Chair, _Institute, Location_ -->
+#### Chair: Ari Rasch, _University of Münster, Germany_
 
 **10:30 - 10:45**\\
 **Repository-Scale Performance Characterization of the IO500 Benchmark** <!-- [[abstract]](abstract03.html) [[paper]]() [[slides]]() -->
@@ -237,7 +237,7 @@ _Huawei Technologies, China_
 ---
 
 ## Session 6: Memory-Bound Performance -- Bandwidth, NUMA, and Data Movement
-#### Chair: TBC <!-- Chair, _Institute, Location_ -->
+#### Chair: Sascha Hunold, _TU Wien, Austria_
 
 
 
