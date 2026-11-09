@@ -94,7 +94,7 @@ _University of Chicago, IL, United States_
 ---
 
 ## Session 3: Accelerators, Precision, and Exascale (Distinguished Papers)
-#### Chair: Brian Austin _Lawrence Berkeley National Laboratory, United States_ <!-- Chair, _Institute, Location_ -->
+#### Chair: Brian Austin, _Lawrence Berkeley National Laboratory, United States_ <!-- Chair, _Institute, Location_ -->
 
 **11:30 - 11:50**\\
 **HPL and HPL-MxP at Exascale on Aurora: Performance Engineering and Characterization** <!-- [[abstract]](abstract07.html) [[paper]]() [[slides]]() -->
