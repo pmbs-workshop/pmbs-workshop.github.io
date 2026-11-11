@@ -133,7 +133,7 @@ _Advanced Micro Devices, Inc, United States_
 ---
 
 ## Session 4: Sharing and Operating Production Systems
-#### Chair: TBC <!-- Chair, _Institute, Location_ -->
+#### Chair: Simon Hammond, _National Nuclear Security Administration, USA_ <!-- Chair, _Institute, Location_ -->
 
 **14:00 - 14:20**\\
 **Benchmarking Physical GCD Placement Effects on Performance, Energy, and Co-Execution** <!-- [[abstract]](abstract10.html) [[paper]]() [[slides]]() -->
