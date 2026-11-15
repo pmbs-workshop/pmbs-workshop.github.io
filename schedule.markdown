@@ -216,7 +216,7 @@ _University of Pittsburgh, PA, United States_
 Scott Klasky, Norbert Podhorszki, Frederic Suter\\
 _Oak Ridge National Laboratory, TN, United States_
 
-Wei Yang, Kenny Yo\\
+Wei Yang, Kenny Lo\\
 _SLAC National Accelerator Laboratory, CA, United States_
 
 ---
