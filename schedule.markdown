@@ -20,7 +20,7 @@ _TU Wien, Austria_
 #### Chair: Sascha Hunold, _TU Wien, Austria_ <!-- Chair, _Institute, Location_ -->
 
 **09:15 - 09:35**\\
-**NVIDIA Vera: A Microarchitecture-Level Comparison with Grace, Turin, and Granite Rapids** [[abstract]](abstract01.html) <!-- [[paper]]() [[slides]]() -->
+**NVIDIA Vera: A Microarchitecture-Level Comparison with Grace, Turin, and Granite Rapids** [[abstract]](abstract01.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00317) <!-- [[slides]]() -->
 
 Joseph Moore, Thomas Green, Simon McIntosh-Smith\\
 _Bristol Centre for Supercomputing, University of Bristol, England_
@@ -29,7 +29,7 @@ _Bristol Centre for Supercomputing, University of Bristol, England_
 {: style="width: 30%;"}
 
 **09:35 - 09:55**\\
-**Automated Design Space Exploration of ARM CMN-Based HPC Architectures: A Case Study for the European Rhea Family Processors** [[abstract]](abstract02.html) <!-- [[paper]]() [[slides]]() -->
+**Automated Design Space Exploration of ARM CMN-Based HPC Architectures: A Case Study for the European Rhea Family Processors** [[abstract]](abstract02.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00307) <!-- [[slides]]() -->
 
 Lilia Zaourar, Mohamed Benazouz\\
 _French Alternative Energies and Atomic Energy Commission (CEA), France_
@@ -97,7 +97,7 @@ _University of Chicago, IL, United States_
 #### Chair: Brian Austin, _Lawrence Berkeley National Laboratory, United States_ <!-- Chair, _Institute, Location_ -->
 
 **11:30 - 11:50**\\
-**HPL and HPL-MxP at Exascale on Aurora: Performance Engineering and Characterization** [[abstract]](abstract07.html) <!-- [[paper]]() [[slides]]() -->
+**HPL and HPL-MxP at Exascale on Aurora: Performance Engineering and Characterization** [[abstract]](abstract07.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00313) <!-- [[slides]]() -->
 
 Kazushige Goto, Huda Ibeid, Anthony-Trung Nguyen, Aditya Nishtala\\
 _Intel Corporation, United States_
@@ -109,7 +109,7 @@ _Argonne National Laboratory, IL, United States_
 {: style="width: 30%;"}
 
 **11:50 - 12:10**\\
-**Performance comparison and analysis of macroscopic cross section lookup kernel on Cerebras CS-3 and NVIDIA GPUs** [[abstract]](abstract08.html) <!-- [[paper]]() [[slides]]() -->
+**Performance comparison and analysis of macroscopic cross section lookup kernel on Cerebras CS-3 and NVIDIA GPUs** [[abstract]](abstract08.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00310) <!-- [[slides]]() -->
 
 Reo Nagashima, Akeru Nakamura, Takaaki Miyajima\\
 _Meiji University, Japan_
@@ -121,7 +121,7 @@ _Argonne National Laboratory, IL, United States_
 {: style="width: 30%;"}
 
 **12:10 - 12:30**\\
-**FP64 Performance and the Limits of Ozaki Emulation on HPC Systems** [[abstract]](abstract09.html) <!-- [[paper]]() [[slides]]() -->
+**FP64 Performance and the Limits of Ozaki Emulation on HPC Systems** [[abstract]](abstract09.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00314) <!-- [[slides]]() -->
 
 Katarzyna (Kasia) Swirydowicz, Nicholas Malaya, Noah Wolfe, Paul Bauman, Pieter Ghysels, Jonathan Belof\\
 _Advanced Micro Devices, Inc, United States_
@@ -136,7 +136,7 @@ _Advanced Micro Devices, Inc, United States_
 #### Chair: Simon Hammond, _National Nuclear Security Administration, USA_ <!-- Chair, _Institute, Location_ -->
 
 **14:00 - 14:20**\\
-**Benchmarking Physical GCD Placement Effects on Performance, Energy, and Co-Execution** [[abstract]](abstract10.html) <!-- [[paper]]() [[slides]]() -->
+**Benchmarking Physical GCD Placement Effects on Performance, Energy, and Co-Execution** [[abstract]](abstract10.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00311) <!-- [[slides]]() -->
 
 Arthur Lorenzon, Philippe Navaux\\
 _Federal University of Rio Grande do Sul, Brazil_
@@ -151,7 +151,7 @@ _AMD, United States_
 {: style="width: 30%;"}
 
 **14:20 - 14:40**\\
-**Enhancing Data Center Efficiency and Throughput by Co-Scheduling** [[abstract]](abstract11.html) <!-- [[paper]]() [[slides]]() -->
+**Enhancing Data Center Efficiency and Throughput by Co-Scheduling** [[abstract]](abstract11.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00309) <!-- [[slides]]() -->
 
 Paul Lin, Nestor Demeure, Mathias Wagner, Francesca Tartaglione, Garima Kochhar\\
 _NVIDIA, United States_
@@ -166,7 +166,7 @@ _Queen's University, Canada_
 {: style="width: 30%;"}
 
 **14:40 - 15:00**\\
-**Custodian: Enabling Automatic Performance Engineering Agents on the NERSC HPC System** [[abstract]](abstract12.html) <!-- [[paper]]() [[slides]]() -->
+**Custodian: Enabling Automatic Performance Engineering Agents on the NERSC HPC System** [[abstract]](abstract12.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00316) <!-- [[slides]]() -->
 
 Abdul Hannan Mohammed, Oscar Antepara, Dhruva Kulkarni, Muaaz Gul Awan, Samuel Williams, Jack Deslippe\\
 _Lawrence Berkeley National Laboratory, CA, United States_
@@ -181,7 +181,7 @@ _Lawrence Berkeley National Laboratory, CA, United States_
 #### Chair: Lilia Zaourar, _CEA, France_ <!-- Chair, _Institute, Location_ -->
 
 **15:30 - 15:50**\\
-**PortWarp: A Cycle-Accurate GPU-Accelerated HPC Network Simulator Using Port-per-Thread Model** [[abstract]](abstract13.html) <!-- [[paper]]() [[slides]]() -->
+**PortWarp: A Cycle-Accurate GPU-Accelerated HPC Network Simulator Using Port-per-Thread Model** [[abstract]](abstract13.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00308) <!-- [[slides]]() -->
 
 Jun Tan, Boning Li, Christopher Carothers\\
 _Rensselaer Polytechnic Institute, NY, United States_
@@ -196,7 +196,7 @@ _University of Illinois Chicago, IL, United States_
 {: style="width: 30%;"}
 
 **15:50 - 16:10**\\
-**DMSim: Configurable Data Management Simulation Framework for Scientific Computing Grid** [[abstract]](abstract14.html) <!-- [[paper]]() [[slides]]() -->
+**DMSim: Configurable Data Management Simulation Framework for Scientific Computing Grid** [[abstract]](abstract14.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00312) <!-- [[slides]]() -->
 
 Kuan-Chieh Hsu, Raees Ahmad Khan, Sairam Sri Vatsavai, Tasnuva Chowdhury, Ozgur Kilic, Sankha Dutta, David Park, Yihui Ren, Shinjae Yoo, Alexei Klimentov, Adolfy Hoisie\\
 _Brookhaven National Laboratory, NY, United States_
@@ -223,7 +223,7 @@ _SLAC National Accelerator Laboratory, CA, United States_
 {: style="width: 30%;"}
 
 **16:10 - 16:30**\\
-**AMAI: Algebraic Modelling of Distributed AI Computations for Symbolic Performance Analysis** [[abstract]](abstract15.html) <!-- [[paper]]() [[slides]]() -->
+**AMAI: Algebraic Modelling of Distributed AI Computations for Symbolic Performance Analysis** [[abstract]](abstract15.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00315) <!-- [[slides]]() -->
 
 Rubén Coll Sánchez\\
 _Huawei Technologies, France_\\
@@ -243,7 +243,7 @@ _Huawei Technologies, China_
 
 
 **16:30 - 16:50**\\
-**Scalable AMG Preconditioning for DG Neutron Diffusion Solvers on Manycore CPUs** [[abstract]](abstract16.html) <!-- [[paper]]() [[slides]]() -->
+**Scalable AMG Preconditioning for DG Neutron Diffusion Solvers on Manycore CPUs** [[abstract]](abstract16.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00304) <!-- [[slides]]() -->
 
 Antoine Kempf, Ansar Calloo, Cédric Chevalier, Marc Perache\\
 _French Alternative Energies and Atomic Energy Commission (CEA), France_\\
@@ -256,7 +256,7 @@ _French Alternative Energies and Atomic Energy Commission (CEA), France_
 {: style="width: 30%;"}
 
 **16:50 - 17:10**\\
-**Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications** [[abstract]](abstract17.html) <!-- [[paper]]() [[slides]]() -->
+**Exploiting the Interplay of Compute- and Memory-Bound kernels in MPI Applications** [[abstract]](abstract17.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00305) <!-- [[slides]]() -->
 
 Ayesha Afzal, Georg Hager\\
 _Erlangen National High Performance Computing Center, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany_
@@ -268,7 +268,7 @@ _University of Bonn, Germany_
 {: style="width: 30%;"}
 
 **17:10 - 17:30**\\
-**FHE-STREAM: Characterizing Memory Access Behavior in Fully Homomorphic Encryption Workloads** [[abstract]](abstract18.html) <!-- [[paper]]() [[slides]]() -->
+**FHE-STREAM: Characterizing Memory Access Behavior in Fully Homomorphic Encryption Workloads** [[abstract]](abstract18.html) [[paper]](https://doi.ieeecomputersociety.org/10.1109/SCW72768.2026.00306) <!-- [[slides]]() -->
 
 Ashlesha Malla, Yash Kumar, Michael Beebe, Yong Chen\\
 _Texas Tech University, TX, United States_
